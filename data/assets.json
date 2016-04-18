@@ -1,0 +1,402 @@
+{
+	"Holding basin": 
+	{
+		"metrics": 
+		[
+			"SeamountExhibitReturnORP1Level",
+			"SeamountExhibitReturnORP2Level",
+			"SeamountExhibitWaterLevel",
+			"SeamountExhibitWaterTemperature1",
+			"SeamountExhibitWaterTemperature2",
+			"SeamountExhibitOutputFlow"
+		],
+
+		"parent": "N/A"
+	},
+
+	"Recovery Basin 2": 
+	{
+		"metrics": 
+		[
+			"SeamountRecoveryBasin2ORPLevel",
+			"SeamountRecoveryBasin2WaterLevel"
+		],
+
+		"parent": "Backwash Recovery"
+	},
+
+	"Recovery Ozone Tower": 
+	{
+		"metrics": 
+		[
+			"SeamountRecoveryOZCTowerDischargeORPLevel",
+			"SeamountRecoveryOZCTowerFlow",
+			"SeamountRecoveryOZCWaterLevel"
+		],
+
+		"parent": "Backwash Recovery"
+	},
+
+	"Recovery Filter": 
+	{
+		"metrics": 
+		[
+			"SeamountRecoveryFilterFlow"
+		],
+
+		"parent": "Backwash Recovery"
+	},
+
+	"Recovery Basin 1": 
+	{
+		"metrics": 
+		[
+			"SeamountRecoveryBasin1ORPLevel",
+			"SeamountRecoveryBasin1WaterLevel"
+		],
+
+		"parent": "Backwash Recovery"
+	},
+
+	"Recovery Protein Skimmer": 
+	{
+		"metrics": 
+		[
+			"SeamountRecoveryPSKDischargeORPLevel",
+			"SeamountRecoveryPSKWaterLevel"
+		],
+
+		"parent": "Backwash Recovery"
+	},
+
+	"Denitrification Filter Valve": 
+	{
+		"metrics": 
+		[
+			"SeamountDenitrificationFilterValvePressure"
+		],
+
+		"parent": "Denitrification"
+	},
+
+	"Denitrification Filter": 
+	{
+		"metrics": 
+		[
+			"SeamountDenitrificationFilterFlow"
+		],
+
+		"parent": "Denitrification"
+	},
+
+	"Deaeration Tower": 
+	{
+		"metrics": 
+		[
+			"SeamountDeaerationTowerDischargeORPLevel",
+			"SeamountDeaerationTowerWaterLevel",
+			"SeamountDeaerationTowerWaterTemperature",
+			"SeamountDeaerationTowerOutputFlow"
+		],
+
+		"parent": "Deaeration"
+	},
+
+	"Ozone Tower 2": 
+	{
+		"metrics": 
+		[
+			"SeamountOZCTower2DischargeORPLevel",
+			"SeamountOZCTower2Flow",
+			"SeamountOZCTower2WaterLevel"
+		],
+
+		"parent": "Ozonation System"
+	},
+
+	"Ozone Tower 1": 
+	{
+		"metrics": 
+		[
+			"SeamountOZCTower1DischargeORPLevel",
+			"SeamountOZCTower1Flow",
+			"SeamountOZCTower1WaterLevel"
+		],
+
+		"parent": "Ozonation System"
+	},
+
+	"Ozone Tower Recirculation Pump": 
+	{
+		"metrics": 
+		[
+			"SeamountOZCTowerRecirculationFlow",
+			"SeamountOZCTowerRecirculationPressure"
+		],
+
+		"parent": "Ozonation System"
+	},
+
+	"Ozone Tower Valve": 
+	{
+		"metrics": 
+		[
+			"SeamountOZCTowerValvePressure"
+		],
+
+		"parent": "Ozonation System"
+	},
+
+	"PSK Pump": 
+	{
+		"metrics": 
+		[
+			"SeamountPSKPumpWaterFlow",
+			"SeamountPSKPumpPressure"
+		],
+
+		"parent": "Foam Fractionation"
+	},
+
+	"Protein Skimmer 1": 
+	{
+		"metrics": 
+		[
+			"SeamountPSK1DischargeORPLevel",
+			"SeamountPSK1WaterLevel",
+			"SeamountPSK1WaterFlow"
+		],
+
+		"parent": "Foam Fractionation"
+	},
+
+	"Protein Skimmer 2": 
+	{
+		"metrics": 
+		[
+			"SeamountPSK2DischargeORPLevel",
+			"SeamountPSK2WaterLevel",
+			"SeamountPSK2WaterFlow"
+		],
+
+		"parent": "Foam Fractionation"
+	},
+
+	"Protein Skimmer 3": 
+	{
+		"metrics": 
+		[
+			"SeamountPSK3DischargeORPLevel",
+			"SeamountPSK3WaterLevel",
+			"SeamountPSK3WaterFlow"
+		],
+
+		"parent": "Foam Fractionation"
+	},
+
+	"Protein Skimmer 4": 
+	{
+		"metrics": 
+		[
+			"SeamountPSK4DischargeORPLevel",
+			"SeamountPSK4WaterLevel",
+			"SeamountPSK4WaterFlow"
+		],
+
+		"parent": "Foam Fractionation"
+	},
+
+	"Protein Skimmer 5": 
+	{
+		"metrics": 
+		[
+			"SeamountPSK5DischargeORPLevel",
+			"SeamountPSK5WaterLevel",
+			"SeamountPSK5WaterFlow"
+		],
+
+		"parent": "Foam Fractionation"
+	},
+
+	"PSK Recirculation Pump": 
+	{
+		"metrics": 
+		[
+			"SeamountPSKRecirculationPumpWaterFlow",
+			"SeamountPSKRecirculationPumpPressure"
+		],
+
+		"parent": "Foam Fractionation"
+	},
+
+	"Sand Filter Pump 1": 
+	{
+		"metrics": 
+		[
+			"SeamountFilterPump1WaterFlow",
+			"SeamountFilterPump1Pressure"
+		],
+
+		"parent": "Sand Filtration System"
+	},
+
+	"Sand Filter Pump 2": 
+	{
+		"metrics": 
+		[
+			"SeamountFilterPump2WaterFlow",
+			"SeamountFilterPump2Pressure"
+		],
+
+		"parent": "Sand Filtration System"
+	},
+
+	"Sand Filter Pump 3": 
+	{
+		"metrics": 
+		[
+			"SeamountFilterPump3WaterFlow",
+			"SeamountFilterPump3Pressure"
+		],
+
+		"parent": "Sand Filtration System"
+	},
+
+	"Sand Filter Pump 4": 
+	{
+		"metrics": 
+		[
+			"SeamountFilterPump4WaterFlow",
+			"SeamountFilterPump4Pressure"
+		],
+
+		"parent": "Sand Filtration System"
+	},
+
+	"Sand Filter Pump 5": 
+	{
+		"metrics": 
+		[
+			"SeamountFilterPump5WaterFlow",
+			"SeamountFilterPump5Pressure"
+		],
+
+		"parent": "Sand Filtration System"
+	},
+
+	"Sand Filter 7/8": 
+	{
+		"metrics": 
+		[
+			"SeamountFilter78Flow"
+		],
+
+		"parent": "Sand Filtration System"
+	},
+
+	"Sand Filter 5/6": 
+	{
+		"metrics": 
+		[
+			"SeamountFilter56Flow"
+		],
+
+		"parent": "Sand Filtration System"
+	},
+
+	"Sand Filter 9/10": 
+	{
+		"metrics": 
+		[
+			"SeamountFilter910Flow"
+		],
+
+		"parent": "Sand Filtration System"
+	},
+
+	"Sand Filter 3/4": 
+	{
+		"metrics": 
+		[
+			"SeamountFilter34Flow"
+		],
+
+		"parent": "Sand Filtration System"
+	},
+
+	"Sand Filter 1/2": 
+	{
+		"metrics": 
+		[
+			"SeamountFilter12Flow"
+		],
+
+		"parent": "Sand Filtration System"
+	},
+
+	"Output Pump 1": 
+	{
+		"metrics": 
+		[
+			"SeamountOutputPump1Flow",
+			"SeamountOutputPump1Pressure"
+		],
+
+		"parent": "Output"
+	},
+
+	"Output Pump 2": 
+	{
+		"metrics": 
+		[
+			"SeamountOutputPump2Flow",
+			"SeamountOutputPump2Pressure"
+		],
+
+		"parent": "Output"
+	},
+
+	"Output Pump 3": 
+	{
+		"metrics": 
+		[
+			"SeamountOutputPump3Flow",
+			"SeamountOutputPump3Pressure"
+		],
+
+		"parent": "Output"
+	},
+
+	"Output Pump 4": 
+	{
+		"metrics": 
+		[
+			"SeamountOutputPump4Flow",
+			"SeamountOutputPump4Pressure"
+		],
+
+		"parent": "Output"
+	},
+
+	"Output Pump 5": 
+	{
+		"metrics": 
+		[
+			"SeamountOutputPump5Flow",
+			"SeamountOutputPump5Pressure"
+		],
+
+		"parent": "Output"
+	},
+
+	"Water Quality Sensor": 
+	{
+		"metrics": 
+		[
+			"SeamountQualitySensorpH",
+			"SeamountQualitySensorORPLevel"
+		],
+
+		"parent": "Output"
+	}
+}

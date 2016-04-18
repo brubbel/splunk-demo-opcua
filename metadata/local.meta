@@ -1,0 +1,17 @@
+[app/ui]
+owner = admin
+version = 6.3.1
+modtime = 1453316744.185705000
+
+[app/launcher]
+owner = admin
+version = 6.3.1
+modtime = 1453316744.187483000
+
+[app/package/check_for_updates]
+version = 6.3.1
+modtime = 1453316744.188341000
+
+[inputs/mi_opcua_subscription%3A%2F%2Fdefault]
+version = 6.3.1
+modtime = 1453350308.203362000

@@ -1,0 +1,190 @@
+{
+	"Denitrification Filter": 
+	{
+		"downtime": "19.666667",
+		"count": "3",
+		"optimum": "10"
+	},
+
+	"Denitrification Filter Valve": 
+	{
+		"downtime": "23.666667",
+		"count": "6",
+		"optimum": "20"
+	},
+
+	"Output Pump 1": 
+	{
+		"downtime": "28.375000",
+		"count": "8",
+		"optimum": "20"
+	},
+
+	"Output Pump 2": 
+	{
+		"downtime": "25.142857",
+		"count": "7",
+		"optimum": "15"
+	},
+
+	"Output Pump 3": 
+	{
+		"downtime": "22.888889",
+		"count": "9",
+		"optimum": "25"
+	},
+
+	"Output Pump 4": 
+	{
+		"downtime": "16.857143",
+		"count": "7",
+		"optimum": "20"
+	},
+
+	"Output Pump 5": 
+	{
+		"downtime": "20.300000",
+		"count": "10",
+		"optimum": "20"
+	},
+
+	"Ozone Tower Recirculation Pump": 
+	{
+		"downtime": "39.250000",
+		"count": "4",
+		"optimum": "20"
+	},
+
+	"Ozone Tower Valve": 
+	{
+		"downtime": "28.333333",
+		"count": "9",
+		"optimum": "20"
+	},
+
+	"PSK Pump": 
+	{
+		"downtime": "28.500000",
+		"count": "10",
+		"optimum": "20"
+	},
+
+	"PSK Recirculation Pump": 
+	{
+		"downtime": "24.461538",
+		"count": "13",
+		"optimum": "20"
+	},
+
+	"Protein Skimmer 1": 
+	{
+		"downtime": "23.777778",
+		"count": "9",
+		"optimum": "20"
+	},
+
+	"Protein Skimmer 2": 
+	{
+		"downtime": "24.142857",
+		"count": "7",
+		"optimum": "20"
+	},
+
+	"Protein Skimmer 3": 
+	{
+		"downtime": "23.818182",
+		"count": "11",
+		"optimum": "20"
+	},
+
+	"Protein Skimmer 4": 
+	{
+		"downtime": "27.000000",
+		"count": "10",
+		"optimum": "20"
+	},
+
+	"Protein Skimmer 5": 
+	{
+		"downtime": "18.222222",
+		"count": "9",
+		"optimum": "20"
+	},
+
+	"Sand Filter 1/2": 
+	{
+		"downtime": "29.900000",
+		"count": "10",
+		"optimum": "20"
+	},
+
+	"Sand Filter 3/4": 
+	{
+		"downtime": "22.200000",
+		"count": "5",
+		"optimum": "20"
+	},
+
+	"Sand Filter 5/6": 
+	{
+		"downtime": "27.000000",
+		"count": "11",
+		"optimum": "20"
+	},
+
+	"Sand Filter 7/8": 
+	{
+		"downtime": "16.333333",
+		"count": "6",
+		"optimum": "20"
+	},
+
+	"Sand Filter 9/10": 
+	{
+		"downtime": "18.100000",
+		"count": "10",
+		"optimum": "20"
+	},
+
+	"Sand Filter Pump 1": 
+	{
+		"downtime": "25.000000",
+		"count": "17",
+		"optimum": "20"
+	},
+
+	"Sand Filter Pump 2": 
+	{
+		"downtime": "21.133333",
+		"count": "15",
+		"optimum": "20"
+	},
+
+	"Sand Filter Pump 3": 
+	{
+		"downtime": "29.100000",
+		"count": "20",
+		"optimum": "20"
+	},
+
+	"Sand Filter Pump 4": 
+	{
+		"downtime": "27.000000",
+		"count": "14",
+		"optimum": "20"
+	},
+
+	"Sand Filter Pump 5": 
+	{
+		"downtime": "32.384615",
+		"count": "13",
+		"optimum": "30"
+	},
+
+	"Water Quality Sensor": 
+	{
+		"downtime": "20.250000",
+		"count": "4",
+		"optimum": "20"
+	}
+}

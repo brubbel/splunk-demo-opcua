@@ -1,0 +1,821 @@
+{
+	"SeamountRecoveryBasin1ORPLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "570:630",
+		"optimum": "600",
+		"metric": "ORP_Level",
+		"asset": "Recovery Basin 1",
+		"unit": "mV"
+	},
+
+	"SeamountRecoveryBasin1WaterLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "84:85",
+		"optimum": "84.5",
+		"metric": "Water_Level",
+		"asset": "Recovery Basin 1",
+		"unit": "Feet"
+	},
+
+	"SeamountRecoveryBasin2ORPLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "570:630",
+		"optimum": "600",
+		"metric": "ORP_Level",
+		"asset": "Recovery Basin 2",
+		"unit": "mV"
+	},
+
+	"SeamountRecoveryBasin2WaterLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "84:85",
+		"optimum": "84.5",
+		"metric": "Water_Level",
+		"asset": "Recovery Basin 2",
+		"unit": "Feet"
+	},
+
+	"SeamountRecoveryPSKDischargeORPLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "570:630",
+		"optimum": "600",
+		"metric": "ORP_Level",
+		"asset": "Recovery PSK Discharge",
+		"unit": "mV"
+	},
+
+	"SeamountRecoveryPSKWaterLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "84:85",
+		"optimum": "84.5",
+		"metric": "Water_Level",
+		"asset": "Recovery PSK",
+		"unit": "Feet"
+	},
+
+	"SeamountFilter12Flow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "13.4:14.6",
+		"optimum": "14.0",
+		"metric": "Flow",
+		"asset": "Sand Filter 1/2",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountFilter34Flow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "13.4:14.6",
+		"optimum": "14.0",
+		"metric": "Flow",
+		"asset": "Sand Filter 3/4",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountFilter56Flow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "13.4:14.6",
+		"optimum": "14.0",
+		"metric": "Flow",
+		"asset": "Sand Filter 5/6",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountFilter78Flow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "13.4:14.6",
+		"optimum": "14.0",
+		"metric": "Flow",
+		"asset": "Sand Filter 7/8",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountRecoveryOZCTowerDischargeORPLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "570:630",
+		"optimum": "600",
+		"metric": "ORP_Level",
+		"asset": "Recovery OZC Tower Discharge",
+		"unit": "mV"
+	},
+
+	"SeamountRecoveryFilterFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "13.4:14.6",
+		"optimum": "14.0",
+		"metric": "Flow",
+		"asset": "Recovery Filter",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountRecoveryOZCTowerFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1600:1800",
+		"optimum": "1750",
+		"metric": "Flow",
+		"asset": "Recovery OZC Tower",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountRecoveryOZCWaterLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "84:85",
+		"optimum": "84.5",
+		"metric": "Water_Level",
+		"asset": "Recovery OZC",
+		"unit": "Feet"
+	},
+
+	"SeamountFilter910Flow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "13.4:14.6",
+		"optimum": "14.0",
+		"metric": "Flow",
+		"asset": "Sand Filter 9/10",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountPSKPumpWaterFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1500:1550",
+		"optimum": "1525",
+		"metric": "Flow",
+		"asset": "PSK Pump",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountPSK3WaterFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "13.4:14.6",
+		"optimum": "14.0",
+		"metric": "Flow",
+		"asset": "Protein Skimmer 3",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountPSK2DischargeORPLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "570:630",
+		"optimum": "600",
+		"metric": "ORP_Level",
+		"asset": "Protein Skimmer 2",
+		"unit": "mV"
+	},
+
+	"SeamountOutputPump5Flow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1780:1820",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Output Pump 5",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountOZCTower1Flow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1780:1860",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Ozone Tower 1",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountOutputPump1Flow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1780:1820",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Output Pump 1",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountPSK3WaterLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "84:85",
+		"optimum": "84.5",
+		"metric": "Water_Level",
+		"asset": "Protein Skimmer 3",
+		"unit": "Feet"
+	},
+
+	"SeamountOutputPump2Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"optimum": "31",
+		"metric": "Pressure",
+		"asset": "Output Pump 2",
+		"unit": "PSI"
+	},
+
+	"SeamountDenitrificationFilterFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1600:1820",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Denitrification Filter",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountOZCTower2DischargeORPLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "570:630",
+		"optimum": "600",
+		"metric": "ORP_Level",
+		"asset": "Ozone Tower 2",
+		"unit": "mV"
+	},
+
+	"SeamountPSK1WaterFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "13.4:14.6",
+		"optimum": "14.0",
+		"metric": "Flow",
+		"asset": "Protein Skimmer 1",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountDeaerationTowerDischargeORPLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "570:630",
+		"optimum": "600",
+		"metric": "ORP_Level",
+		"asset": "Deaeration Tower",
+		"unit": "mV"
+	},
+
+	"SeamountOZCTowerValvePressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"optimum": "31",
+		"metric": "Pressure",
+		"asset": "Ozone Tower Valve",
+		"unit": "PSI"
+	},
+
+	"SeamountOutputPump2Flow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1780:1820",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Output Pump 2",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountOZCTower1DischargeORPLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "570:630",
+		"optimum": "600",
+		"metric": "ORP_Level",
+		"asset": "Ozone Tower 1",
+		"unit": "mV"
+	},
+
+	"SeamountOutputPump5Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"optimum": "31",
+		"metric": "Pressure",
+		"asset": "Output Pump 5",
+		"unit": "PSI"
+	},
+
+	"SeamountOutputPump3Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"optimum": "31",
+		"metric": "Pressure",
+		"asset": "Output Pump 3",
+		"unit": "PSI"
+	},
+
+	"SeamountQualitySensorORPLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "570:630",
+		"optimum": "600",
+		"metric": "ORP_Level",
+		"asset": "Water Quality Sensor",
+		"unit": "mV"
+	},
+
+	"SeamountPSKRecirculationPumpPressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "20:22",
+		"optimum": "21",
+		"metric": "Pressure",
+		"asset": "PSK Recirculation Pump",
+		"unit": "PSI"
+	},
+
+	"SeamountExhibitWaterLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "84:85",
+		"optimum": "84.5",
+		"metric": "Water_Level",
+		"asset": "Holding basin (Exhibit)",
+		"unit": "Feet"
+	},
+
+	"SeamountDeaerationTowerWaterLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "84:85",
+		"optimum": "84.5",
+		"metric": "Water_Level",
+		"asset": "Deaeration Tower",
+		"unit": "Feet"
+	},
+
+	"SeamountOZCTowerRecirculationFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "67:73",
+		"optimum": "70",
+		"metric": "Flow",
+		"asset": "Ozone Tower Recirculation Pump",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountOutputPump3Flow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1780:1820",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Output Pump 3",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountPSKRecirculationPumpWaterFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "67:73",
+		"optimum": "70",
+		"metric": "Flow",
+		"asset": "PSK Recirculation Pump",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountPSK5WaterFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "13.4:14.6",
+		"optimum": "14",
+		"metric": "Flow",
+		"asset": "Protein Skimmer 5",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountPSK3DischargeORPLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "570:630",
+		"optimum": "600",
+		"metric": "ORP_Level",
+		"asset": "Protein Skimmer 3",
+		"unit": "mV"
+	},
+
+	"SeamountFilterPump4WaterFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1780:1820",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Sand Filter Pump 4",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountFilterPump5WaterFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1780:1820",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Sand Filter Pump 5",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountOutputPump4Flow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1780:1820",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Output Pump 4",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountFilterPump5Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"optimum": "31",
+		"metric": "Pressure",
+		"asset": "Sand Filter Pump 5",
+		"unit": "PSI"
+	},
+
+	"SeamountPSK4DischargeORPLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "570:630",
+		"optimum": "600",
+		"metric": "ORP_Level",
+		"asset": "Protein Skimmer 4",
+		"unit": "mV"
+	},
+
+	"SeamountDeaerationTowerOutputFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "8700:9300",
+		"optimum": "9000",
+		"metric": "Flow",
+		"asset": "Deaeration Tower",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountFilterPump2Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"optimum": "31",
+		"metric": "Pressure",
+		"asset": "Sand Filter Pump 2",
+		"unit": "PSI"
+	},
+
+	"SeamountPSK4WaterLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "84:85",
+		"optimum": "84.5",
+		"metric": "Water_Level",
+		"asset": "Protein Skimmer 4",
+		"unit": "Feet"
+	},
+
+	"SeamountOZCTower1WaterLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "84:85",
+		"optimum": "84.5",
+		"metric": "Water_Level",
+		"asset": "Ozone Tower 1",
+		"unit": "Feet"
+	},
+
+	"SeamountOZCTower2WaterLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "84:85",
+		"optimum": "84.5",
+		"metric": "Water_Level",
+		"asset": "Ozone Tower 2",
+		"unit": "Feet"
+	},
+
+	"SeamountSandFilter56Flow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1480:2000",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Sand Filter 5/6",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountOZCTower2Flow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1780:2400",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Ozone Tower 2",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountFilterPump3Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"optimum": "31",
+		"metric": "Pressure",
+		"asset": "Sand Filter Pump 3",
+		"unit": "PSI"
+	},
+
+	"SeamountSandFilter78Flow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1780:2000",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Sand Filter 7/8",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountPSKPumpPressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "29:31",
+		"optimum": "30",
+		"metric": "Pressure",
+		"asset": "PSK Pump",
+		"unit": "PSI"
+	},
+
+	"SeamountExhibitWaterTemperature2": 
+	{
+		"extend": "random_float_range_select",
+		"range": "58.5:60",
+		"optimum": "59.25",
+		"metric": "Temperature",
+		"asset": "Holding basin (Exhibit)",
+		"unit": "Fahrenheit"
+	},
+
+	"SeamountPSK5DischargeORPLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "570:630",
+		"optimum": "600",
+		"metric": "ORP_Level",
+		"asset": "Protein Skimmer 5",
+		"unit": "mV"
+	},
+
+	"SeamountExhibitWaterTemperature1": 
+	{
+		"extend": "random_float_range_select",
+		"range": "58.5:60",
+		"optimum": "59.25",
+		"metric": "Temperature",
+		"asset": "Holding basin (Exhibit)",
+		"unit": "Fahrenheit"
+	},
+
+	"SeamountDeaerationTowerWaterTemperature": 
+	{
+		"extend": "random_float_range_select",
+		"range": "58.5:60",
+		"optimum": "59.25",
+		"metric": "Temperature",
+		"asset": "Deaeration Tower",
+		"unit": "Fahrenheit"
+	},
+
+	"SeamountOutputPump1Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"optimum": "31",
+		"metric": "Pressure",
+		"asset": "Output Pump 1",
+		"unit": "PSI"
+	},
+
+	"SeamountFilterPump4Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"optimum": "31",
+		"metric": "Pressure",
+		"asset": "Sand Filter Pump 4",
+		"unit": "PSI"
+	},
+
+	"SeamountOutputPump4Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"optimum": "31",
+		"metric": "Pressure",
+		"asset": "Output Pump 4",
+		"unit": "PSI"
+	},
+
+	"SeamountQualitySensorpH": 
+	{
+		"extend": "random_float_range_select",
+		"range": "7:8",
+		"optimum": "7.5",
+		"metric": "pH",
+		"asset": "Water Quality Sensor",
+		"unit": "pH"
+	},
+
+	"SeamountPSK5WaterLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "84:85",
+		"optimum": "84.5",
+		"metric": "Water_Level",
+		"asset": "Protein Skimmer 5",
+		"unit": "Feet"
+	},
+
+	"SeamountDenitrificationFilterValvePressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"optimum": "31",
+		"metric": "Pressure",
+		"asset": "Denitrification Filter Valve",
+		"unit": "PSI"
+	},
+
+	"SeamountFilterPump1Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"optimum": "31",
+		"metric": "Pressure",
+		"asset": "Sand Filter Pump 1",
+		"unit": "PSI"
+	},
+
+	"SeamountFilterPump3WaterFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1780:1820",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Sand Filter Pump 3",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountFilterPump1WaterFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1780:1820",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Sand Filter Pump 1",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountPSK1DischargeORPLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "570:630",
+		"optimum": "600",
+		"metric": "ORP_Level",
+		"asset": "Protein Skimmer 1",
+		"unit": "mV"
+	},
+
+	"SeamountSandFilter34Flow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1500:1820",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Sand Filter 3/4",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountPSK2WaterFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "13.4:14.6",
+		"optimum": "14.0",
+		"metric": "Flow",
+		"asset": "Protein Skimmer 2",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountOZCTowerRecirculationPressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "20:22",
+		"optimum": "21",
+		"metric": "Pressure",
+		"asset": "Ozone Tower Recirculation Pump",
+		"unit": "PSI"
+	},
+
+	"SeamountExhibitReturnORP2Level": 
+	{
+		"extend": "random_float_range_select",
+		"range": "570:630",
+		"optimum": "600",
+		"metric": "ORP_Level",
+		"asset": "Holding basin (Exhibit)",
+		"unit": "mV"
+	},
+
+	"SeamountExhibitOutputFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "8700:9300",
+		"optimum": "9000",
+		"metric": "Flow",
+		"asset": "Holding basin (Exhibit)",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountPSK4WaterFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "13.4:14.6",
+		"optimum": "14.0",
+		"metric": "Flow",
+		"asset": "Protein Skimmer 4",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountPSK2WaterLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "84:85",
+		"optimum": "84.5",
+		"metric": "Water_Level",
+		"asset": "Protein Skimmer 2",
+		"unit": "Feet"
+	},
+
+	"SeamountSandFilter12Flow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1280:1820",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Sand Filter 1/2",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountFilterPump2WaterFlow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1780:1820",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Sand Filter Pump 2",
+		"unit": "Gallons/min"
+	},
+
+	"SeamountPSK1WaterLevel": 
+	{
+		"extend": "random_float_range_select",
+		"range": "84:85",
+		"optimum": "84.5",
+		"metric": "Water_Level",
+		"asset": "Protein Skimmer 1",
+		"unit": "Feet"
+	},
+
+	"SeamountExhibitReturnORP1Level": 
+	{
+		"extend": "random_float_range_select",
+		"range": "570:630",
+		"optimum": "600",
+		"metric": "ORP_Level",
+		"asset": "Holding basin (Exhibit)",
+		"unit": "mV"
+	},
+
+	"SeamountSandFilter910Flow": 
+	{
+		"extend": "random_float_range_select",
+		"range": "1780:2120",
+		"optimum": "1800",
+		"metric": "Flow",
+		"asset": "Sand Filter 9/10",
+		"unit": "Gallons/min"
+	}
+}

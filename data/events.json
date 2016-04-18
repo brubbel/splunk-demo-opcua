@@ -1,0 +1,278 @@
+{
+	"SeamountExhibitOutputFlow": 
+	{
+		"extend": "random_number_range_select",
+		"range": "8700:9300"
+	},
+
+	"SeamountDenitrificationFilterValvePressure": 
+	{
+		"short": "Pressure",
+		"datatype": "float",
+		"extend": "random_float_range_select",
+		"range": "30:32"
+	},
+
+	"SeamountDeaerationTowerWaterTemperature": 
+	{
+		"short": "Temperature",
+		"datatype": "float",
+		"extend": "random_float_range_select",
+		"range": "58.5:60"
+	},
+
+	"SeamountDeaerationTowerOutputFlow": 
+	{
+		"short": "Flow",
+		"extend": "random_number_range_select",
+		"range": "8700:9300"
+	},
+
+	"SeamountOZCTowerRecirculationFlow": 
+	{
+		"datatype": "float",
+		"extend": "random_float_range_select",
+		"range": "67:73",
+		"short": "Flow"
+	},
+
+	"SeamountOZCTowerRecirculationPressure": 
+	{
+		"datatype": "float",
+		"extend": "random_float_range_select",
+		"range": "20:22",
+		"short": "Pressure"
+	},
+
+	"SeamountPSKPumpWaterFlow": 
+	{
+		"extend": "random_number_range_select",
+		"range": "1500:1550",
+		"short": "Flow"
+	},
+
+	"SeamountPSKPumpPressure": 
+	{
+		"short": "Pressure",
+		"datatype": "float",
+		"extend": "random_float_range_select",
+		"range": "29:31"
+	},
+
+	"SeamountPSK2WaterFlow": 
+	{
+		"short": "Flow",
+		"extend": "random_float_range_select",
+		"range": "13.4:14.6",
+		"datatype": "float"
+	},
+
+	"SeamountPSK3WaterFlow": 
+	{
+		"short": "Flow",
+		"extend": "random_float_range_select",
+		"range": "13.4:14.6",
+		"datatype": "float"
+	},
+
+	"SeamountPSK4WaterFlow": 
+	{
+		"short": "Flow",
+		"extend": "random_float_range_select",
+		"range": "13.4:14.6",
+		"datatype": "float"
+	},
+
+	"SeamountPSK5WaterFlow": 
+	{
+		"short": "Flow",
+		"extend": "random_float_range_select",
+		"range": "13.4:14.6",
+		"datatype": "float"
+	},
+
+	"SeamountPSKRecirculationPumpWaterFlow": 
+	{
+		"short": "Flow",
+		"extend": "random_float_range_select",
+		"range": "67:73",
+		"datatype": "float"
+	},
+
+	"SeamountPSKRecirculationPumpPressure": 
+	{
+		"short": "Pressure",
+		"extend": "random_float_range_select",
+		"range": "20:22",
+		"datatype": "float"
+	},
+
+	"SeamountFilterPump1WaterFlow": 
+	{
+		"extend": "random_number_range_select",
+		"range": "1780:1820",
+		"short": "Flow"
+	},
+
+	"SeamountFilterPump1Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"short": "Pressure",
+		"datatype": "float"
+	},
+
+	"SeamountFilterPump2WaterFlow": 
+	{
+		"extend": "random_number_range_select",
+		"range": "1780:1820",
+		"short": "Flow"
+	},
+
+	"SeamountFilterPump2Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"short": "Pressure",
+		"datatype": "float"
+	},
+
+	"SeamountFilterPump3WaterFlow": 
+	{
+		"extend": "random_number_range_select",
+		"range": "1780:1820",
+		"short": "Flow",
+		"datatype": "int"
+	},
+
+	"SeamountFilterPump3Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"short": "Pressure",
+		"datatype": "float"
+	},
+
+	"SeamountFilterPump4WaterFlow": 
+	{
+		"extend": "random_number_range_select",
+		"range": "1780:1820",
+		"short": "Flow",
+		"datatype": "int"
+	},
+
+	"SeamountFilterPump4Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"short": "Pressure",
+		"datatype": "float"
+	},
+
+	"SeamountFilterPump5WaterFlow": 
+	{
+		"extend": "random_number_range_select",
+		"range": "1780:1820",
+		"short": "Flow",
+		"datatype": "int"
+	},
+
+	"SeamountFilterPump5Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"short": "Pressure",
+		"datatype": "float"
+	},
+
+	"SeamountOutputPump1Flow": 
+	{
+		"extend": "random_number_range_select",
+		"range": "1780:1820",
+		"short": "Flow"
+	},
+
+	"SeamountOutputPump1Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"short": "Pressure",
+		"datatype": "float"
+	},
+
+	"SeamountOutputPump2Flow": 
+	{
+		"extend": "random_number_range_select",
+		"range": "1780:1820",
+		"datatype": "int",
+		"short": "Flow"
+	},
+
+	"SeamountOutputPump2Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"short": "Pressure",
+		"datatype": "float"
+	},
+
+	"SeamountOutputPump3Flow": 
+	{
+		"extend": "random_number_range_select",
+		"range": "1780:1820",
+		"short": "Flow"
+	},
+
+	"SeamountOutputPump3Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"short": "Pressure",
+		"datatype": "float"
+	},
+
+	"SeamountOutputPump4Flow": 
+	{
+		"extend": "random_number_range_select",
+		"range": "1780:1820",
+		"short": "Flow"
+	},
+
+	"SeamountOutputPump4Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"short": "Pressure",
+		"datatype": "float"
+	},
+
+	"SeamountOutputPump5Flow": 
+	{
+		"extend": "random_number_range_select",
+		"range": "1780:1820",
+		"short": "Flow"
+	},
+
+	"SeamountOutputPump5Pressure": 
+	{
+		"extend": "random_float_range_select",
+		"range": "30:32",
+		"short": "Pressure",
+		"datatype": "float"
+	},
+
+	"SeamountQualitySensorpH": 
+	{
+		"extend": "random_float_range_select",
+		"range": "7:8",
+		"datatype": "float",
+		"short": "pH"
+	},
+
+	"SeamountQualitySensorORPLevel": 
+	{
+		"extend": "random_number_range_select",
+		"range": "570:630",
+		"short": "ORP Level"
+	}
+}

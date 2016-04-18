@@ -1,0 +1,73 @@
+{
+	"Healthscore High": 
+	{
+		"description": "Alert on high healthscore",
+		"metric": "Healthscore",
+		"conditions": {"Critical": ">80", "High": ">60", "Medium": "> 50", "Normal": "> 0"},
+		"type": "Alarm",
+		"source" : "splunk"
+	},
+
+	"Water Quality Low": 
+	{
+		"description": "Alert on low ORP level",
+		"metric": "ORP_Level",
+		"conditionss": {"Medium" : "> 70", "Normal": "> 0"},
+		"type": "Alarm",
+		"source" : "splunk"
+	},
+
+	"Flow Low": 
+	{
+		"description": "Alert on low flow",
+		"metric": "Flow",
+		"conditions": {"Critical":"> 90", "High": ">80", "Medium": ">70"},
+		"type": "Alarm",
+		"source": "splunk"
+	},
+
+	"Flow High": 
+	{
+		"description": "Alert on high flow",
+		"metric": "Flow",
+		"conditions": {"Critical":">95", "High": ">85", "Medium": ">75"},
+		"type": "Alarm",
+		"source": "splunk"
+	},
+
+	"Temperature Low": 
+	{
+		"description": "Alert on low temperature",
+		"metric": "Temperature",
+		"conditions": {"Critical":">80", "High": ">70", "Medium": ">65"},
+		"type": "Alarm",
+		"source": "splunk"
+	},
+
+	"Temperature High": 
+	{
+		"description": "Alert on high temperature",
+		"metric": "Temperature",
+		"conditions": {"Critical":"< 10", "High": "<20", "Medium": "<40"},
+		"type": "Alarm",
+		"source": "splunk"
+	},
+
+	"Pressure Low": 
+	{
+		"description": "Alert on low pressure",
+		"metric": "Pressure",
+		"conditions": {"Critical":"< 10", "High": "< 20", "Medium": "< 40"},
+		"type": "Alarm",
+		"source": "splunk"
+	},
+
+	"pH High": 
+	{
+		"description": "Alert on water quality high pH",
+		"metric": "pH",
+		"conditions": {"Critical":"< 10", "High": "<20", "Medium": "<40"},
+		"type": "Alarm",
+		"source": "splunk"
+	}
+}

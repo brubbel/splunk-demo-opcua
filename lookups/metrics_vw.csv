@@ -1,0 +1,37 @@
+"Asset","Healthscore(0-100)","Maint.cost($/yr)","MTBF(Hrs)","Downtime(%)"
+PSK Pump,54,5071,4030,2
+Protein Skimmer 1,40,5998,2252,5
+Protein Skimmer 2,47,8471,4115,6
+Protein Skimmer 3,90,7519,1552,8
+Protein Skimmer 4,32,2886,4603,5
+Protein Skimmer 5,78,3426,2994,4
+PSK Recirculation Pump,83,7345,1342,3
+Sand Filter Pump 1,56,8125,3126,5
+Sand Filter Pump 1,78,3983,1390,7
+Sand Filter Pump 2,67,6221,3882,2
+Sand Filter Pump 2,36,7220,6432,5
+Sand Filter Pump 3,87,2331,5228,4
+Sand Filter Pump 3,72,1220,3882,6
+Sand Filter Pump 4,45,3991,2883,5
+Sand Filter Pump 4,55,6293,3772,4
+Sand Filter Pump 5,59,4235,1299,5
+Sand Filter Pump 5,68,2773,978,1
+Sand Filter 1/2,38,3298,3782,3
+Sand Filter 3/4,83,4109,2497,4
+Sand Filter 5/6,67,5332,3982,5
+Sand Filter 7/8,49,2349,1289,2
+Sand Filter 9/10,76,2387,2890,3
+Denitrification Filter Valve,73,2789,823,2
+Denitrification Filter,59,2562,1882,2
+Ozone Tower Valve,62,3980,4332,4
+Ozone Tower 1,68,1892,4229,3
+Ozone Tower 2,74,2182,3287,6
+Ozone Tower Recirculation Pump,68,6233,6210,7
+Deaeration Tower,48,2982,3281,3
+Output Pump 1,64,2917,924,5
+Output Pump 2,72,3981,7234,6
+Output Pump 3,82,5230,4290,2
+Output Pump 4,29,3456,6234,4
+Output Pump 5,83,4233,1230,3
+Water Quality Sensor,71,3872,4223,5
+

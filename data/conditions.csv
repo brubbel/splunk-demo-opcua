@@ -1,0 +1,60 @@
+Condition Name,Category,Timestamp,Source,Asset,Metric,Value,Unit
+ORP Level High,Medium,2016-03-22 14:35:57,OPC,Holding basin (Exhibit),ORP Level 1,471.0,mV
+ORP Level High,Critical,2016-03-22 14:35:57,OPC,Holding basin (Exhibit),ORP Level 2,475.0,mV
+Water Level Low,Critical,2016-03-22 14:35:57,OPC,Holding basin (Exhibit),Water Level,0.2,Feet
+Temperature,Normal,2016-03-22 14:35:57,OPC,Holding basin (Exhibit),Temperature 1,59.2,F
+Temperature,Normal,2016-03-22 14:35:57,OPC,Holding basin (Exhibit),Temperature 2,59.4,F
+Flow High,Critical,2016-03-22 14:35:57,OPC,Holding basin (Exhibit),Flow,9001.0,Gallons/min
+Water Quality,Normal,2016-03-22 14:35:57,OPC,Water Quality Sensor,pH,7.69,pH
+ORP Level High,Normal,2016-03-22 14:35:57,OPC,Water Quality Sensor,ORP Level,613.0,mV
+Flow High,Normal,2016-03-22 14:35:57,OPC,Output Pump 2,Flow,1781.0,Gallons/min
+Pressure High,Normal,2016-03-22 14:35:57,OPC,Output Pump 2,Pressure,30.7,PSI
+Flow High,Normal,2016-03-22 14:35:57,OPC,Output Pump 3,Flow,1785.0,Gallons/min
+Pressure High,Normal,2016-03-22 14:35:57,OPC,Output Pump 3,Pressure,31.5,PSI
+Flow High,Normal,2016-03-22 14:35:57,OPC,Output Pump 1,Flow,1801.0,Gallons/min
+Pressure High,Normal,2016-03-22 14:35:57,OPC,Output Pump 1,Pressure,31.79,PSI
+Flow High,Normal,2016-03-22 14:35:57,OPC,Output Pump 4,Flow,1785.0,Gallons/min
+Pressure High,Normal,2016-03-22 14:35:57,OPC,Output Pump 4,Pressure,31.7,PSI
+Flow High,Normal,2016-03-22 14:35:57,OPC,Output Pump 5,Flow,1794.0,Gallons/min
+Pressure High,Normal,2016-03-22 14:35:57,OPC,Output Pump 5,Pressure,30.7,PSI
+ORP Level High,Normal,2016-03-22 14:35:57,OPC,Deaeration Tower,ORP Level,615.0,mV
+Water Level Low,Normal,2016-03-22 14:35:57,OPC,Deaeration Tower,Water Level,84.3,Feet
+Temperature,Normal,2016-03-22 14:35:57,OPC,Deaeration Tower,Temperature,59.09,Fahrenheit
+Flow High,High,2016-03-22 14:35:57,OPC,Deaeration Tower,Flow,8889.0,Gallons/min
+Flow High,Low,2016-03-22 14:35:57,OPC,Denitrification Filter,Flow,2.0,Gallons/min
+Pressure High,Normal,2016-03-22 14:35:57,OPC,Denitrification Filter Valve,Pressure,31.7,PSI
+Flow High,Normal,2016-03-22 14:35:57,OPC,PSK Pump,Flow,1549.0,Gallons/min
+Pressure High,Normal,2016-03-22 14:35:57,OPC,PSK Pump,Pressure,30.79,PSI
+ORP Level High,Normal,2016-03-22 14:35:57,OPC,Protein Skimmer 1,ORP Level,544.0,mV
+Water Level High,Normal,2016-03-22 14:35:57,OPC,Protein Skimmer 1,Water Level,131.1,Feet
+ORP Level High,Normal,2016-03-22 14:35:57,OPC,Protein Skimmer 2,ORP Level,548.0,mV
+Water Level High,Normal,2016-03-22 14:35:57,OPC,Protein Skimmer 2,Water Level,130.0,Feet
+ORP Level High,Normal,2016-03-22 14:35:57,OPC,Protein Skimmer 3,ORP Level,570.0,mV
+Water Level High,Normal,2016-03-22 14:35:57,OPC,Protein Skimmer 3,Water Level,129.0,Feet
+Flow High,Low,2016-03-22 14:35:57,OPC,Protein Skimmer 3,Flow,14.0,Gallons/min
+ORP Level High,Normal,2016-03-22 14:35:57,OPC,Protein Skimmer 4,ORP Level,580.0,mV
+Water Level High,Normal,2016-03-22 14:35:57,OPC,Protein Skimmer 4,Water Level,130.5,Feet
+Flow High,Low,2016-03-22 14:35:57,OPC,Protein Skimmer 4,Flow,14.3,Gallons/min
+ORP Level High,Normal,2016-03-22 14:35:57,OPC,Protein Skimmer 5,ORP Level,547.0,mV
+Water Level High,Medium,2016-03-22 14:35:57,OPC,Protein Skimmer 5,Water Level,115.0,Feet
+Flow Low,Normal,2016-03-22 14:35:57,OPC,Protein Skimmer 5,Flow,13.69,Gallons/min
+Flow Low,Normal,2016-03-22 14:35:57,OPC,PSK Recirculation Pump,Flow,67.09,Gallons/min
+Pressure High,Low,2016-03-22 14:35:57,OPC,PSK Recirculation Pump,Pressure,20.6,PSI
+Flow High,Normal,2016-03-22 14:35:57,OPC,Sand Filter Pump 2,Flow,1786.0,Gallons/min
+Pressure High,Normal,2016-03-22 14:35:57,OPC,Sand Filter Pump 2,Pressure,31.1,PSI
+Flow High,Normal,2016-03-22 14:35:57,OPC,Sand Filter Pump 3,Flow,1792.0,Gallons/min
+Pressure High,Normal,2016-03-22 14:35:57,OPC,Sand Filter Pump 3,Pressure,31.89,PSI
+Flow High,Normal,2016-03-22 14:35:57,OPC,Sand Filter Pump 1,Flow,1782.0,Gallons/min
+Pressure High,Normal,2016-03-22 14:35:57,OPC,Sand Filter Pump 1,Pressure,31.6,PSI
+Flow High,Normal,2016-03-22 14:35:57,OPC,Sand Filter Pump 4,Flow,1805.0,Gallons/min
+Pressure High,Normal,2016-03-22 14:35:57,OPC,Sand Filter Pump 4,Pressure,30.39,PSI
+Flow High,Normal,2016-03-22 14:35:57,OPC,Sand Filter Pump 5,Flow,1813.0,Gallons/min
+Pressure High,Normal,2016-03-22 14:35:57,OPC,Sand Filter Pump 5,Pressure,31.89,PSI
+Flow Low,Normal,2016-03-22 14:35:57,OPC,Ozone Tower Recirculation Pump,Flow,69.69,Gallons/min
+Pressure High,Low,2016-03-22 14:35:57,OPC,Ozone Tower Recirculation Pump,Pressure,21.5,PSI
+ORP Level High,Normal,2016-03-22 14:35:57,OPC,Ozone Tower 2,ORP Level,659.0,mV
+Flow High,Normal,2016-03-22 14:35:57,OPC,Ozone Tower 2,Flow,1384.0,Gallons/min
+Water Level High,High,2016-03-22 14:35:57,OPC,Ozone Tower 2,Water Level,139.69,Feet
+ORP Level High,Normal,2016-03-22 14:35:57,OPC,Ozone Tower 1,ORP Level,680.0,mV
+Flow High,Normal,2016-03-22 14:35:57,OPC,Ozone Tower 1,Flow,1360.0,Gallons/min
+Water Level High,High,2016-03-22 14:35:57,OPC,Ozone Tower 1,Water Level,140.3,Feet

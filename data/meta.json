@@ -1,0 +1,236 @@
+{
+	"Holding basin(Exhibit)": 
+	[
+		"SeamountExhibitReturnORP1Level",
+		"SeamountExhibitReturnORP2Level",
+		"SeamountExhibitWaterLevel",
+		"SeamountExhibitWaterTemperature1",
+		"SeamountExhibitWaterTemperature2",
+		"SeamountExhibitOutputFlow"
+	],
+
+	"Backwash Recovery": 
+	{
+		"Recovery Basin 2": 
+		[
+			"SeamountRecoveryBasin2ORPLevel",
+			"SeamountRecoveryBasin2WaterLevel"
+		],
+
+		"Recovery Ozone Tower": 
+		[
+			"SeamountRecoveryOZCTowerDischargeORPLevel",
+			"SeamountRecoveryOZCTowerFlow",
+			"SeamountRecoveryOZCWaterLevel"
+		],
+
+		"Recovery Filter": 
+		[
+			"SeamountRecoveryFilterFlow"
+		],
+
+		"Recovery Basin 1": 
+		[
+			"SeamountRecoveryBasin1ORPLevel",
+			"SeamountRecoveryBasin1WaterLevel"
+		],
+
+		"Recovery Protein Skimmer": 
+		[
+			"SeamountRecoveryPSKDischargeORPLevel",
+			"SeamountRecoveryPSKWaterLevel"
+		]
+	},
+
+	"Denitrification": 
+	{
+		"Denitrification Filter Valve": 
+		[
+			"SeamountDenitrificationFilterValvePressure"
+		],
+
+		"Denitrification Filter": 
+		[
+			"SeamountDenitrificationFilterFlow"
+		]
+	},
+
+	"Deaeration": 
+	{
+		"Deaeration Tower": 
+		[
+			"SeamountDeaerationTowerDischargeORPLevel",
+			"SeamountDeaerationTowerWaterLevel",
+			"SeamountDeaerationTowerWaterTemperature",
+			"SeamountDeaerationTowerOutputFlow"
+		]
+	},
+
+	"Ozonation System": 
+	{
+		"Ozone Tower 2": 
+		[
+			"SeamountOZCTower2DischargeORPLevel",
+			"SeamountOZCTower2Flow",
+			"SeamountOZCTower2WaterLevel"
+		],
+
+		"Ozone Tower 1": 
+		[
+			"SeamountOZCTower1DischargeORPLevel",
+			"SeamountOZCTower1Flow",
+			"SeamountOZCTower1WaterLevel"
+		],
+
+		"Ozone Tower Recirculation Pump": 
+		[
+			"SeamountOZCTowerRecirculationFlow",
+			"SeamountOZCTowerRecirculationPressure"
+		]
+	},
+
+	"Foam Fractionation": 
+	{
+		"PSK Pump": 
+		[
+			"SeamountPSKPumpWaterFlow",
+			"SeamountPSKPumpPressure"
+		],
+
+		"Protein Skimmer 1": 
+		[
+			"SeamountPSK1DischargeORPLevel",
+			"SeamountPSK1WaterLevel"
+		],
+
+		"Protein Skimmer 2": 
+		[
+			"SeamountPSK2DischargeORPLevel",
+			"SeamountPSK2WaterLevel"
+		],
+
+		"Protein Skimmer 3": 
+		[
+			"SeamountPSK3DischargeORPLevel",
+			"SeamountPSK3WaterLevel",
+			"SeamountPSK3WaterFlow"
+		],
+
+		"Protein Skimmer 4": 
+		[
+			"SeamountPSK4DischargeORPLevel",
+			"SeamountPSK4WaterLevel",
+			"SeamountPSK4WaterFlow"
+		],
+
+		"Protein Skimmer 5": 
+		[
+			"SeamountPSK5DischargeORPLevel",
+			"SeamountPSK5WaterLevel",
+			"SeamountPSK5WaterFlow"
+		],
+
+		"PSK Recirculation Pump": 
+		[
+			"SeamountPSKRecirculationPumpWaterFlow",
+			"SeamountPSKRecirculationPumpPressure"
+		]
+	},
+
+	"Sand Filtration System": 
+	{
+		"Sand Filter Pump 1": 
+		[
+			"SeamountFilterPump1WaterFlow",
+			"SeamountFilterPump1Pressure"
+		],
+
+		"Sand Filter Pump 2": 
+		[
+			"SeamountFilterPump2WaterFlow",
+			"SeamountFilterPump2Pressure"
+		],
+
+		"Sand Filter Pump 3": 
+		[
+			"SeamountFilterPump3WaterFlow",
+			"SeamountFilterPump3Pressure"
+		],
+
+		"Sand Filter Pump 4": 
+		[
+			"SeamountFilterPump4WaterFlow",
+			"SeamountFilterPump4Pressure"
+		],
+
+		"Sand Filter Pump 5": 
+		[
+			"SeamountFilterPump5WaterFlow",
+			"SeamountFilterPump5Pressure"
+		],
+
+		"Filter 7/8": 
+		[
+			"SeamountFilter78Flow"
+		],
+
+		"Filter 5/6": 
+		[
+			"SeamountFilter56Flow"
+		],
+
+		"Filter 9/10": 
+		[
+			"SeamountFilter910Flow"
+		],
+
+		"Filter 3/4": 
+		[
+			"SeamountFilter34Flow"
+		],
+
+		"Filter 1/2": 
+		[
+			"SeamountFilter12Flow"
+		]
+	},
+
+	"Output": 
+	{
+		"Output Pump 1": 
+		[
+			"SeamountOutputPump1Flow",
+			"SeamountOutputPump1Pressure"
+		],
+
+		"Output Pump 2": 
+		[
+			"SeamountOutputPump2Flow",
+			"SeamountOutputPump2Pressure"
+		],
+
+		"Output Pump 3": 
+		[
+			"SeamountOutputPump3Flow",
+			"SeamountOutputPump3Pressure"
+		],
+
+		"Output Pump 4": 
+		[
+			"SeamountOutputPump4Flow",
+			"SeamountOutputPump4Pressure"
+		],
+
+		"Output Pump 5": 
+		[
+			"SeamountOutputPump5Flow",
+			"SeamountOutputPump5Pressure"
+		],
+
+		"Water Quality Sensor": 
+		[
+			"SeamountQualitySensorpH",
+			"SeamountQualitySensorORPLevel"
+		]
+	}
+}

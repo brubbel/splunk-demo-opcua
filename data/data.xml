@@ -1,0 +1,537 @@
+<stream>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.440116</time>
+		<data>2016-03-22 14:35:57.440116 stanza=test, collect_time=2016-03-22
+			14:35:57.440116, node_id=6006,
+			measure=SeamountExhibitReturnORP1Level, status=Good, data_type=Float,
+			value=471.0, unit=, asset=Holding basin (Exhibit), metric=ORP Level
+			1, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.440194</time>
+		<data>2016-03-22 14:35:57.440194 stanza=test, collect_time=2016-03-22
+			14:35:57.440194, node_id=6007,
+			measure=SeamountExhibitReturnORP2Level, status=Good, data_type=Float,
+			value=475.0, unit=, asset=Holding basin (Exhibit), metric=ORP Level
+			2, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.440273</time>
+		<data>2016-03-22 14:35:57.440273 stanza=test, collect_time=2016-03-22
+			14:35:57.440273, node_id=6008, measure=SeamountExhibitWaterLevel,
+			status=Good, data_type=Float, value=0.2, unit=, asset=Holding basin
+			(Exhibit), metric=Water Level, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.440351</time>
+		<data>2016-03-22 14:35:57.440351 stanza=test, collect_time=2016-03-22
+			14:35:57.440351, node_id=6009,
+			measure=SeamountExhibitWaterTemperature1, status=Good,
+			data_type=Float, value=59.2, unit=, asset=Holding basin (Exhibit),
+			metric=Temperature 1, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.440429</time>
+		<data>2016-03-22 14:35:57.440429 stanza=test, collect_time=2016-03-22
+			14:35:57.440429, node_id=60010,
+			measure=SeamountExhibitWaterTemperature2, status=Good,
+			data_type=Float, value=59.4, unit=, asset=Holding basin (Exhibit),
+			metric=Temperature 2, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.434779</time>
+		<data>2016-03-22 14:35:57.434779 stanza=test, collect_time=2016-03-22
+			14:35:57.434779, node_id=60011, measure=SeamountExhibitOutputFlow,
+			status=Good, data_type=Float, value=9001.0, unit=Gallons/min,
+			asset=Holding basin (Exhibit), metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.434865</time>
+		<data>2016-03-22 14:35:57.434865 stanza=test, collect_time=2016-03-22
+			14:35:57.434865, node_id=60014, measure=SeamountQualitySensorpH,
+			status=Good, data_type=Float, value=7.69, unit=pH, asset=Water
+			Quality Sensor, metric=pH, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.436707</time>
+		<data>2016-03-22 14:35:57.436707 stanza=test, collect_time=2016-03-22
+			14:35:57.436707, node_id=60015,
+			measure=SeamountQualitySensorORPLevel, status=Good, data_type=Float,
+			value=613.0, unit=mV, asset=Water Quality Sensor, metric=ORP Level,
+			demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.435734</time>
+		<data>2016-03-22 14:35:57.435734 stanza=test, collect_time=2016-03-22
+			14:35:57.435734, node_id=60017, measure=SeamountOutputPump2Flow,
+			status=Good, data_type=Float, value=1781.0, unit=Gallons/min,
+			asset=Output Pump 2, metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.435460</time>
+		<data>2016-03-22 14:35:57.435460 stanza=test, collect_time=2016-03-22
+			14:35:57.435460, node_id=60018, measure=SeamountOutputPump2Pressure,
+			status=Good, data_type=Float, value=30.7, unit=PSI, asset=Output Pump
+			2, metric=Pressure, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.434325</time>
+		<data>2016-03-22 14:35:57.434325 stanza=test, collect_time=2016-03-22
+			14:35:57.434325, node_id=60020, measure=SeamountOutputPump3Flow,
+			status=Good, data_type=Float, value=1785.0, unit=Gallons/min,
+			asset=Output Pump 3, metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.434414</time>
+		<data>2016-03-22 14:35:57.434414 stanza=test, collect_time=2016-03-22
+			14:35:57.434414, node_id=60021, measure=SeamountOutputPump3Pressure,
+			status=Good, data_type=Float, value=31.5, unit=PSI, asset=Output Pump
+			3, metric=Pressure, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.436003</time>
+		<data>2016-03-22 14:35:57.436003 stanza=test, collect_time=2016-03-22
+			14:35:57.436003, node_id=60023, measure=SeamountOutputPump1Flow,
+			status=Good, data_type=Float, value=1801.0, unit=Gallons/min,
+			asset=Output Pump 1, metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.436170</time>
+		<data>2016-03-22 14:35:57.436170 stanza=test, collect_time=2016-03-22
+			14:35:57.436170, node_id=60024, measure=SeamountOutputPump1Pressure,
+			status=Good, data_type=Float, value=31.79, unit=PSI, asset=Output
+			Pump 1, metric=Pressure, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.433640</time>
+		<data>2016-03-22 14:35:57.433640 stanza=test, collect_time=2016-03-22
+			14:35:57.433640, node_id=60026, measure=SeamountOutputPump4Flow,
+			status=Good, data_type=Float, value=1785.0, unit=Gallons/min,
+			asset=Output Pump 4, metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.435037</time>
+		<data>2016-03-22 14:35:57.435037 stanza=test, collect_time=2016-03-22
+			14:35:57.435037, node_id=60027, measure=SeamountOutputPump4Pressure,
+			status=Good, data_type=Float, value=31.7, unit=PSI, asset=Output Pump
+			4, metric=Pressure, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.436893</time>
+		<data>2016-03-22 14:35:57.436893 stanza=test, collect_time=2016-03-22
+			14:35:57.436893, node_id=60029, measure=SeamountOutputPump5Flow,
+			status=Good, data_type=Float, value=1794.0, unit=Gallons/min,
+			asset=Output Pump 5, metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.435544</time>
+		<data>2016-03-22 14:35:57.435544 stanza=test, collect_time=2016-03-22
+			14:35:57.435544, node_id=60030, measure=SeamountOutputPump5Pressure,
+			status=Good, data_type=Float, value=30.7, unit=PSI, asset=Output Pump
+			5, metric=Pressure, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.439958</time>
+		<data>2016-03-22 14:35:57.439958 stanza=test, collect_time=2016-03-22
+			14:35:57.439958, node_id=60033,
+			measure=SeamountDeaerationTowerDischargeORPLevel, status=Good,
+			data_type=Float, value=615.0, unit=mV, asset=Deaeration Tower,
+			metric=ORP Level, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.440037</time>
+		<data>2016-03-22 14:35:57.440037 stanza=test, collect_time=2016-03-22
+			14:35:57.440037, node_id=60034,
+			measure=SeamountDeaerationTowerWaterLevel, status=Good,
+			data_type=Float, value=84.3, unit=Feet, asset=Deaeration Tower,
+			metric=Water Level, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.436975</time>
+		<data>2016-03-22 14:35:57.436975 stanza=test, collect_time=2016-03-22
+			14:35:57.436975, node_id=60035,
+			measure=SeamountDeaerationTowerWaterTemperature, status=Good,
+			data_type=Float, value=59.09, unit=Fahrenheit, asset=Deaeration
+			Tower, metric=Temperature, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.434227</time>
+		<data>2016-03-22 14:35:57.434227 stanza=test, collect_time=2016-03-22
+			14:35:57.434227, node_id=60036,
+			measure=SeamountDeaerationTowerOutputFlow, status=Good,
+			data_type=Float, value=8889.0, unit=Gallons/min, asset=Deaeration
+			Tower, metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.442414</time>
+		<data>2016-03-22 14:35:57.442414 stanza=test, collect_time=2016-03-22
+			14:35:57.442414, node_id=60039,
+			measure=SeamountDenitrificationFilterFlow, status=Good,
+			data_type=Float, value=2.0, unit=, asset=Denitrification Filter,
+			metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.433740</time>
+		<data>2016-03-22 14:35:57.433740 stanza=test, collect_time=2016-03-22
+			14:35:57.433740, node_id=60041,
+			measure=SeamountDenitrificationFilterValvePressure, status=Good,
+			data_type=Float, value=31.7, unit=PSI, asset=Denitrification Filter
+			Valve, metric=Pressure, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.440852</time>
+		<data>2016-03-22 14:35:57.440852 stanza=test, collect_time=2016-03-22
+			14:35:57.440852, node_id=60044,
+			measure=SeamountRecoveryBasin1ORPLevel, status=Good, data_type=Float,
+			value=409.0</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.440929</time>
+		<data>2016-03-22 14:35:57.440929 stanza=test, collect_time=2016-03-22
+			14:35:57.440929, node_id=60045,
+			measure=SeamountRecoveryBasin1WaterLevel, status=Good,
+			data_type=Float, value=4097.0</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.441018</time>
+		<data>2016-03-22 14:35:57.441018 stanza=test, collect_time=2016-03-22
+			14:35:57.441018, node_id=60047,
+			measure=SeamountRecoveryBasin2ORPLevel, status=Good, data_type=Float,
+			value=781.0</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.441096</time>
+		<data>2016-03-22 14:35:57.441096 stanza=test, collect_time=2016-03-22
+			14:35:57.441096, node_id=60048,
+			measure=SeamountRecoveryBasin2WaterLevel, status=Good,
+			data_type=Float, value=19030.0</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.441578</time>
+		<data>2016-03-22 14:35:57.441578 stanza=test, collect_time=2016-03-22
+			14:35:57.441578, node_id=60050,
+			measure=SeamountRecoveryPSKDischargeORPLevel, status=Good,
+			data_type=Float, value=657.0</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.441645</time>
+		<data>2016-03-22 14:35:57.441645 stanza=test, collect_time=2016-03-22
+			14:35:57.441645, node_id=60051,
+			measure=SeamountRecoveryPSKWaterLevel, status=Good, data_type=Float,
+			value=59.0</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.441985</time>
+		<data>2016-03-22 14:35:57.441985 stanza=test, collect_time=2016-03-22
+			14:35:57.441985, node_id=60053,
+			measure=SeamountRecoveryOZCTowerDischargeORPLevel, status=Good,
+			data_type=Float, value=691.0</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.442271</time>
+		<data>2016-03-22 14:35:57.442271 stanza=test, collect_time=2016-03-22
+			14:35:57.442271, node_id=60054, measure=SeamountRecoveryOZCTowerFlow,
+			status=Good, data_type=Float, value=0.0</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.442343</time>
+		<data>2016-03-22 14:35:57.442343 stanza=test, collect_time=2016-03-22
+			14:35:57.442343, node_id=60055,
+			measure=SeamountRecoveryOZCWaterLevel, status=Good, data_type=Float,
+			value=39.59</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.442190</time>
+		<data>2016-03-22 14:35:57.442190 stanza=test, collect_time=2016-03-22
+			14:35:57.442190, node_id=60057, measure=SeamountRecoveryFilterFlow,
+			status=Good, data_type=Float, value=180.0</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.436801</time>
+		<data>2016-03-22 14:35:57.436801 stanza=test, collect_time=2016-03-22
+			14:35:57.436801, node_id=60060, measure=SeamountPSKPumpWaterFlow,
+			status=Good, data_type=Float, value=1549.0, unit=Gallons/min,
+			asset=PSK Pump, metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.435376</time>
+		<data>2016-03-22 14:35:57.435376 stanza=test, collect_time=2016-03-22
+			14:35:57.435376, node_id=60061, measure=SeamountPSKPumpPressure,
+			status=Good, data_type=Float, value=30.79, unit=PSI, asset=PSK Pump,
+			metric=Pressure, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.441167</time>
+		<data>2016-03-22 14:35:57.441167 stanza=test, collect_time=2016-03-22
+			14:35:57.441167, node_id=60063,
+			measure=SeamountPSK1DischargeORPLevel, status=Good, data_type=Float,
+			value=544.0, unit=, asset=Protein Skimmer 1, metric=ORP Level,
+			demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.441305</time>
+		<data>2016-03-22 14:35:57.441305 stanza=test, collect_time=2016-03-22
+			14:35:57.441305, node_id=60064, measure=SeamountPSK1WaterLevel,
+			status=Good, data_type=Float, value=131.1, unit=, asset=Protein
+			Skimmer 1, metric=Water Level, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.441236</time>
+		<data>2016-03-22 14:35:57.441236 stanza=test, collect_time=2016-03-22
+			14:35:57.441236, node_id=60066,
+			measure=SeamountPSK2DischargeORPLevel, status=Good, data_type=Float,
+			value=548.0, unit=, asset=Protein Skimmer 2, metric=ORP Level,
+			demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.441373</time>
+		<data>2016-03-22 14:35:57.441373 stanza=test, collect_time=2016-03-22
+			14:35:57.441373, node_id=60067, measure=SeamountPSK2WaterLevel,
+			status=Good, data_type=Float, value=130.0, unit=, asset=Protein
+			Skimmer 2, metric=Water Level, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.442504</time>
+		<data>2016-03-22 14:35:57.442504 stanza=test, collect_time=2016-03-22
+			14:35:57.442504, node_id=60069,
+			measure=SeamountPSK3DischargeORPLevel, status=Good, data_type=Float,
+			value=570.0, unit=, asset=Protein Skimmer 3, metric=ORP Level,
+			demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.442574</time>
+		<data>2016-03-22 14:35:57.442574 stanza=test, collect_time=2016-03-22
+			14:35:57.442574, node_id=60070, measure=SeamountPSK3WaterLevel,
+			status=Good, data_type=Float, value=129.0, unit=, asset=Protein
+			Skimmer 3, metric=Water Level, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.435206</time>
+		<data>2016-03-22 14:35:57.435206 stanza=test, collect_time=2016-03-22
+			14:35:57.435206, node_id=60071, measure=SeamountPSK3WaterFlow,
+			status=Good, data_type=Float, value=14.0, unit=Gallons/min,
+			asset=Protein Skimmer 3, metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.441442</time>
+		<data>2016-03-22 14:35:57.441442 stanza=test, collect_time=2016-03-22
+			14:35:57.441442, node_id=60073,
+			measure=SeamountPSK4DischargeORPLevel, status=Good, data_type=Float,
+			value=580.0, unit=, asset=Protein Skimmer 4, metric=ORP Level,
+			demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.441510</time>
+		<data>2016-03-22 14:35:57.441510 stanza=test, collect_time=2016-03-22
+			14:35:57.441510, node_id=60074, measure=SeamountPSK4WaterLevel,
+			status=Good, data_type=Float, value=130.5, unit=, asset=Protein
+			Skimmer 4, metric=Water Level, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.436251</time>
+		<data>2016-03-22 14:35:57.436251 stanza=test, collect_time=2016-03-22
+			14:35:57.436251, node_id=60075, measure=SeamountPSK4WaterFlow,
+			status=Good, data_type=Float, value=14.3, unit=Gallons/min,
+			asset=Protein Skimmer 4, metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.442714</time>
+		<data>2016-03-22 14:35:57.442714 stanza=test, collect_time=2016-03-22
+			14:35:57.442714, node_id=60077,
+			measure=SeamountPSK5DischargeORPLevel, status=Good, data_type=Float,
+			value=547.0, unit=, asset=Protein Skimmer 5, metric=ORP Level,
+			demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.442783</time>
+		<data>2016-03-22 14:35:57.442783 stanza=test, collect_time=2016-03-22
+			14:35:57.442783, node_id=60078, measure=SeamountPSK5WaterLevel,
+			status=Good, data_type=Float, value=115.0, unit=, asset=Protein
+			Skimmer 5, metric=Water Level, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.434500</time>
+		<data>2016-03-22 14:35:57.434500 stanza=test, collect_time=2016-03-22
+			14:35:57.434500, node_id=60079, measure=SeamountPSK5WaterFlow,
+			status=Good, data_type=Float, value=13.69, unit=Gallons/min,
+			asset=Protein Skimmer 5, metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.435643</time>
+		<data>2016-03-22 14:35:57.435643 stanza=test, collect_time=2016-03-22
+			14:35:57.435643, node_id=60081,
+			measure=SeamountPSKRecirculationPumpWaterFlow, status=Good,
+			data_type=Float, value=67.09, unit=Gallons/min, asset=PSK
+			Recirculation Pump, metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.435124</time>
+		<data>2016-03-22 14:35:57.435124 stanza=test, collect_time=2016-03-22
+			14:35:57.435124, node_id=60082,
+			measure=SeamountPSKRecirculationPumpPressure, status=Good,
+			data_type=Float, value=20.6, unit=PSI, asset=PSK Recirculation Pump,
+			metric=Pressure, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.441713</time>
+		<data>2016-03-22 14:35:57.441713 stanza=test, collect_time=2016-03-22
+			14:35:57.441713, node_id=60085, measure=SeamountFilter12Flow,
+			status=Good, data_type=Float, value=1796.0</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.441917</time>
+		<data>2016-03-22 14:35:57.441917 stanza=test, collect_time=2016-03-22
+			14:35:57.441917, node_id=60087, measure=SeamountFilter78Flow,
+			status=Good, data_type=Float, value=1795.0</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.442645</time>
+		<data>2016-03-22 14:35:57.442645 stanza=test, collect_time=2016-03-22
+			14:35:57.442645, node_id=60089, measure=SeamountFilter910Flow,
+			status=Good, data_type=Float, value=1795.0</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.441781</time>
+		<data>2016-03-22 14:35:57.441781 stanza=test, collect_time=2016-03-22
+			14:35:57.441781, node_id=60091, measure=SeamountFilter34Flow,
+			status=Good, data_type=Float, value=1798.0</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.436343</time>
+		<data>2016-03-22 14:35:57.436343 stanza=test, collect_time=2016-03-22
+			14:35:57.436343, node_id=60093, measure=SeamountFilterPump2WaterFlow,
+			status=Good, data_type=Float, value=1786.0, unit=Gallons/min,
+			asset=Sand Filter Pump 2, metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.436609</time>
+		<data>2016-03-22 14:35:57.436609 stanza=test, collect_time=2016-03-22
+			14:35:57.436609, node_id=60094, measure=SeamountFilterPump2Pressure,
+			status=Good, data_type=Float, value=31.1, unit=PSI, asset=Sand Filter
+			Pump 2, metric=Pressure, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.436434</time>
+		<data>2016-03-22 14:35:57.436434 stanza=test, collect_time=2016-03-22
+			14:35:57.436434, node_id=60096, measure=SeamountFilterPump3WaterFlow,
+			status=Good, data_type=Float, value=1792.0, unit=Gallons/min,
+			asset=Sand Filter Pump 3, metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.435291</time>
+		<data>2016-03-22 14:35:57.435291 stanza=test, collect_time=2016-03-22
+			14:35:57.435291, node_id=60097, measure=SeamountFilterPump3Pressure,
+			status=Good, data_type=Float, value=31.89, unit=PSI, asset=Sand
+			Filter Pump 3, metric=Pressure, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.433492</time>
+		<data>2016-03-22 14:35:57.433492 stanza=test, collect_time=2016-03-22
+			14:35:57.433492, node_id=60099, measure=SeamountFilterPump1WaterFlow,
+			status=Good, data_type=Float, value=1782.0, unit=Gallons/min,
+			asset=Sand Filter Pump 1, metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.433938</time>
+		<data>2016-03-22 14:35:57.433938 stanza=test, collect_time=2016-03-22
+			14:35:57.433938, node_id=600100, measure=SeamountFilterPump1Pressure,
+			status=Good, data_type=Float, value=31.6, unit=PSI, asset=Sand Filter
+			Pump 1, metric=Pressure, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.441849</time>
+		<data>2016-03-22 14:35:57.441849 stanza=test, collect_time=2016-03-22
+			14:35:57.441849, node_id=600102, measure=SeamountFilter56Flow,
+			status=Good, data_type=Float, value=1797.0</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.435912</time>
+		<data>2016-03-22 14:35:57.435912 stanza=test, collect_time=2016-03-22
+			14:35:57.435912, node_id=600104,
+			measure=SeamountFilterPump4WaterFlow, status=Good, data_type=Float,
+			value=1805.0, unit=Gallons/min, asset=Sand Filter Pump 4,
+			metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.436086</time>
+		<data>2016-03-22 14:35:57.436086 stanza=test, collect_time=2016-03-22
+			14:35:57.436086, node_id=600105, measure=SeamountFilterPump4Pressure,
+			status=Good, data_type=Float, value=30.39, unit=PSI, asset=Sand
+			Filter Pump 4, metric=Pressure, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.436524</time>
+		<data>2016-03-22 14:35:57.436524 stanza=test, collect_time=2016-03-22
+			14:35:57.436524, node_id=600107,
+			measure=SeamountFilterPump5WaterFlow, status=Good, data_type=Float,
+			value=1813.0, unit=Gallons/min, asset=Sand Filter Pump 5,
+			metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.435819</time>
+		<data>2016-03-22 14:35:57.435819 stanza=test, collect_time=2016-03-22
+			14:35:57.435819, node_id=600108, measure=SeamountFilterPump5Pressure,
+			status=Good, data_type=Float, value=31.89, unit=PSI, asset=Sand
+			Filter Pump 5, metric=Pressure, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.433848</time>
+		<data>2016-03-22 14:35:57.433848 stanza=test, collect_time=2016-03-22
+			14:35:57.433848, node_id=600111,
+			measure=SeamountOZCTowerRecirculationFlow, status=Good,
+			data_type=Float, value=69.69, unit=Gallons/min, asset=Ozone Tower
+			Recirculation Pump, metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.434952</time>
+		<data>2016-03-22 14:35:57.434952 stanza=test, collect_time=2016-03-22
+			14:35:57.434952, node_id=600112,
+			measure=SeamountOZCTowerRecirculationPressure, status=Good,
+			data_type=Float, value=21.5, unit=PSI, asset=Ozone Tower
+			Recirculation Pump, metric=Pressure, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.440694</time>
+		<data>2016-03-22 14:35:57.440694 stanza=test, collect_time=2016-03-22
+			14:35:57.440694, node_id=600114,
+			measure=SeamountOZCTower2DischargeORPLevel, status=Good,
+			data_type=Float, value=659.0, unit=, asset=Ozone Tower 2, metric=ORP
+			Level, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.442122</time>
+		<data>2016-03-22 14:35:57.442122 stanza=test, collect_time=2016-03-22
+			14:35:57.442122, node_id=600115, measure=SeamountOZCTower2Flow,
+			status=Good, data_type=Float, value=1384.0, unit=, asset=Ozone Tower
+			2, metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.440773</time>
+		<data>2016-03-22 14:35:57.440773 stanza=test, collect_time=2016-03-22
+			14:35:57.440773, node_id=600116, measure=SeamountOZCTower2WaterLevel,
+			status=Good, data_type=Float, value=139.69, unit=, asset=Ozone Tower
+			2, metric=Water Level, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.440507</time>
+		<data>2016-03-22 14:35:57.440507 stanza=test, collect_time=2016-03-22
+			14:35:57.440507, node_id=600118,
+			measure=SeamountOZCTower1DischargeORPLevel, status=Good,
+			data_type=Float, value=680.0, unit=, asset=Ozone Tower 1, metric=ORP
+			Level, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.442054</time>
+		<data>2016-03-22 14:35:57.442054 stanza=test, collect_time=2016-03-22
+			14:35:57.442054, node_id=600119, measure=SeamountOZCTower1Flow,
+			status=Good, data_type=Float, value=1360.0, unit=, asset=Ozone Tower
+			1, metric=Flow, demo=True</data>
+	</event>
+	<event stanza="test">
+		<time>2016-03-22 14:35:57.440610</time>
+		<data>2016-03-22 14:35:57.440610 stanza=test, collect_time=2016-03-22
+			14:35:57.440610, node_id=600120, measure=SeamountOZCTower1WaterLevel,
+			status=Good, data_type=Float, value=140.3, unit=, asset=Ozone Tower
+			1, metric=Water Level, demo=True</data>
+	</event>
+</stream>

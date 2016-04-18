@@ -1,0 +1,38 @@
+"Asset group #","Parent Asset","Asset","Manufacturer","Model","Installation date","Specification1","Specfication2","Specfication3","Specification4"
+1,,Holding basin (Exhibit),N/A,N/A,3/3/08,,,,
+2,Foam Fractionation,PSK Pump,Fybroc,Series 1500,3/14/05,Max capacity = 1800 gallons/min,1750 RPM,60 Hz,20 HP
+3,Foam Fractionation,Protein Skimmer 1,RK2 Systems,RK25PE-FW,12/13/13,Max capacity = 40 gallons/min,,Diameter = 14 inches,1/4 HP
+3,Foam Fractionation,Protein Skimmer 2,RK2 Systems,RK25PE-FW,7/15/12,Max capacity = 40 gallons/min,,Diameter = 14 inches,1/4 HP
+3,Foam Fractionation,Protein Skimmer 3,RK2 Systems,RK25PE-FW,3/18/09,Max capacity = 40 gallons/min,,Diameter = 14 inches,1/4 HP
+3,Foam Fractionation,Protein Skimmer 4,RK2 Systems,RK25PE-FW,7/19/07,Max capacity = 40 gallons/min,,Diameter = 14 inches,1/4 HP
+3,Foam Fractionation,Protein Skimmer 5,RK2 Systems,RK25PE-FW,2/2/14,Max capacity = 40 gallons/min,,Diameter = 14 inches,1/4 HP
+4,Foam Fractionation,PSK Recirculation Pump,RK2 Systems,PN 41102.301,10/4/12,Max capacity = 110 gallons/min,13.8 Amps @115VAC 60Hz,60 Hz,1 HP
+5,Sand Filtration System,Sand Filter Pump 1,Fybroc,Series 1500,5/12/14,Max capacity = 2500 gallons/min,1150 RPM,60 Hz,17 HP
+5,Sand Filtration System,Sand Filter Pump 1,Fybroc,Series 1500,3/6/05,Max capacity = 2500 gallons/min,1150 RPM,60 Hz,17 HP
+5,Sand Filtration System,Sand Filter Pump 2,Fybroc,Series 1500,4/20/04,Max capacity = 2500 gallons/min,1150 RPM,60 Hz,17 HP
+5,Sand Filtration System,Sand Filter Pump 2,Fybroc,Series 1500,3/7/08,Max capacity = 2500 gallons/min,1150 RPM,60 Hz,17 HP
+5,Sand Filtration System,Sand Filter Pump 3,Fybroc,Series 1500,11/18/13,Max capacity = 2500 gallons/min,1150 RPM,60 Hz,17 HP
+5,Sand Filtration System,Sand Filter Pump 3,Fybroc,Series 1500,1/24/09,Max capacity = 2500 gallons/min,1150 RPM,60 Hz,17 HP
+5,Sand Filtration System,Sand Filter Pump 4,Fybroc,Series 1500,8/5/13,Max capacity = 2500 gallons/min,1150 RPM,60 Hz,17 HP
+5,Sand Filtration System,Sand Filter Pump 4,Fybroc,Series 1500,2/13/14,Max capacity = 2500 gallons/min,1150 RPM,60 Hz,17 HP
+5,Sand Filtration System,Sand Filter Pump 5,Fybroc,Series 1500,9/3/10,Max capacity = 2500 gallons/min,1150 RPM,60 Hz,17 HP
+5,Sand Filtration System,Sand Filter Pump 5,Fybroc,Series 1500,1/13/08,Max capacity = 2500 gallons/min,1150 RPM,60 Hz,17 HP
+6,Sand Filtration System,Sand Filter 1/2,Neptune Benson,MN 102 SDC-8 ,8/27/13,Max capacity = 2270 gallons/min,Max Filter rate = 20GPM/SF,Filter area = 113.5 SF,Tank connection size = 8
+6,Sand Filtration System,Sand Filter 3/4,Neptune Benson,MN 102 SDC-8 ,5/17/14,Max capacity = 2270 gallons/min,Max Filter rate = 20GPM/SF,Filter area = 113.5 SF,Tank connection size = 8
+6,Sand Filtration System,Sand Filter 5/6,Neptune Benson,MN 102 SDC-8 ,8/11/04,Max capacity = 2270 gallons/min,Max Filter rate = 20GPM/SF,Filter area = 113.5 SF,Tank connection size = 8
+6,Sand Filtration System,Sand Filter 7/8,Neptune Benson,MN 102 SDC-8 ,8/11/04,Max capacity = 2270 gallons/min,Max Filter rate = 20GPM/SF,Filter area = 113.5 SF,Tank connection size = 8
+6,Sand Filtration System,Sand Filter 9/10,Neptune Benson,MN 102 SDC-8 ,12/8/11,Max capacity = 2270 gallons/min,Max Filter rate = 20GPM/SF,Filter area = 113.5 SF,Tank connection size = 8
+7,Denitrification,Denitrification Filter Valve,Bray Controls,Series 20 Resilient Sealed Valve,11/14/04,Metal disc = 10 inches,Max pressure = 150 PSI,,
+8,Denitrification,Denitrification Filter,Neptune Benson,MN 3660SHFFG,9/8/07,Max capacity = 346 gallons/min,Max Filter rate = 20GPM/SF,Filter area = 17.3 SF,Tank connection size = 4
+9,Ozonation System,Ozone Tower Valve,Bray Controls,Series 20 Resilient Sealed Valve,7/16/04,Metal disc = 10 inches,Max pressure = 150 PSI,,
+10,Ozonation System,Ozone Tower 1,Diamond Fiberglass,N/A,1/16/11,"Capacity = 20,000 gallons",,,
+10,Ozonation System,Ozone Tower 2,Diamond Fiberglass,N/A,3/6/08,"Capacity = 20,000 gallons",,,
+11,Ozonation System,Ozone Tower Recirculation Pump,RK2 Systems,PN 41102.301,8/26/05,Max capacity = 110 gallons/min,13.8 Amps @115VAC 50Hz,60 Hz,1HP
+12,Deaeration,Deaeration Tower,Diamond Fiberglass,N/A,9/13/06,"Capacity = 30,000 gallons",,,
+13,Output,Output Pump 1,Fybroc,Series 1500,4/8/13,Max capacity = 2500 gallons/min,1150 RPM,60 Hz,17 HP
+13,Output,Output Pump 2,Fybroc,Series 1500,4/27/13,Max capacity = 2500 gallons/min,1150 RPM,60 Hz,17 HP
+13,Output,Output Pump 3,Fybroc,Series 1500,7/2/06,Max capacity = 2500 gallons/min,1150 RPM,60 Hz,17 HP
+13,Output,Output Pump 4,Fybroc,Series 1500,12/25/07,Max capacity = 2500 gallons/min,1150 RPM,60 Hz,17 HP
+13,Output,Output Pump 5,Fybroc,Series 1500,8/21/04,Max capacity = 2500 gallons/min,1150 RPM,60 Hz,17 HP
+,14,Output,Water Quality Sensor,Signet,2750 DryLoc pH / ORP sensor,2/5/10,pH Accuracy = 0.03 pH,ORP Accuracy = 2 mV,pH resolution = 0.01 pH,ORP resolution = 1 mV
+
