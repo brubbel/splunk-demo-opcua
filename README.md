@@ -2,9 +2,9 @@
 
 1.0 Feature Overview
 
-OPC UA (OPC Unified Architecture) is a platform-independent industrial standard from opcfoundation.org for communication of industrial automation devices and systems. It is an advanced communication technology for process control, data acquisition and manufacturing automation. This Splunk TA is to provide uers in manufacturing sector to connect their UA servers with Splunk Enterprise while then enabling their systems easy integration with Splunk and are able to leverage its rich analytics and applications.
+OPC UA (OPC Unified Architecture) is a platform-independent industrial standard from opcfoundation.org for communication of industrial automation devices and systems. It is an advanced communication technology for process control, data acquisition and manufacturing automation. This demo-opcua is to provide uers in manufacturing sector to connect their UA servers with Splunk Enterprise while then enabling their systems easy integration with Splunk and are able to leverage its rich analytics and applications.
 
-Although it is not as part of the scopes for now, TA-OPCUA may be a bridge for the users to use Splunk in designing their SCADA dashboard. The purposed features currently include Event Pull and Subscription, Alert Notification and UA Simulation Server (optional).
+Although it is not as part of the scopes for now, DEMO-OPCUA may be a bridge for the users to use Splunk in designing their SCADA dashboard. The purposed features currently include Event Pull and Subscription, Alert Notification and UA Simulation Server (optional).
 
 
 1.1 Problem Summary
