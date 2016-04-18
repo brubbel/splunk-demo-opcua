@@ -1,4 +1,4 @@
-# splunk_demo_opcua
+# splunk-demo-opcua
 
 1.0 Feature Overview
 
