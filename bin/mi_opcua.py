@@ -152,7 +152,7 @@ def run():
         stanza = configs["name"]
         patterns = configs["measures"].split(":")
         tout = configs["connection_timeout"].strip()
-        spec = configs["metrics_spec"].strip()
+        spec = configs.get("metrics_spec", "n.a.").strip()
         timeout = 1 if len(tout) <= 0 else int(tout)
 
         conn = configs["connection"]   ## "opc.tcp://ec2-54-190-162-94.us-west-2.compute.amazonaws.com:49320"
