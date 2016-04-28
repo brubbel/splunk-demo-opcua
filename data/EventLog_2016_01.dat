@@ -1,0 +1,457 @@
+Id	DateTime	System	Type	Name	Event	AcknowledgedBy	AcknowledgedDate
+687491	1/1/2016 12:14:56 AM	RCKACS004	Alarm	Seamount Recovery PSK Discharge ORP Level	Warning: Seamount Recovery PSK Discharge ORP Level above high limit 796		
+687492	1/1/2016 12:51:09 AM	RCKACS004	Alarm	Seamount Recovery PSK Discharge ORP Level	Warning: Seamount Recovery PSK Discharge ORP Level alarm restored		
+687493	1/1/2016 5:00:33 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Stopping		
+687494	1/1/2016 5:01:18 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Enabled		
+687495	1/1/2016 5:16:04 AM	Seamount	Protein Skimmer Process	Seamount PSK 5	Seamount PSK 5 Ozone Inject Disabled, ORP level is out of range.551		
+687496	1/1/2016 5:37:27 AM	Seamount	Protein Skimmer Process	Seamount PSK 1	Seamount PSK 1 Ozone Inject Disabled, ORP level is out of range.551		
+687497	1/1/2016 5:55:01 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Stopping		
+687498	1/1/2016 5:55:18 AM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Stopping		
+687499	1/1/2016 5:56:59 AM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Enabled		
+687500	1/1/2016 5:57:00 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Enabled		
+687501	1/1/2016 10:50:59 AM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1, ORP Level out of safety range.		
+687502	1/1/2016 11:47:19 AM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level below low limit 484		
+687503	1/1/2016 11:49:42 AM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level alarm restored		
+687504	1/1/2016 12:27:27 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1, ORP Level out of safety range.		
+687505	1/1/2016 1:23:16 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Starting		
+687506	1/1/2016 1:37:10 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Stopping		
+687507	1/1/2016 3:03:25 PM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level below low limit 494		
+687508	1/1/2016 3:04:13 PM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level alarm restored		
+687509	1/1/2016 3:29:28 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Stopping		
+687510	1/1/2016 3:29:45 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Starting Backwash		
+687511	1/1/2016 4:03:24 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter run time since last backwash: 16:46		
+687512	1/1/2016 4:26:34 PM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level below low limit 490		
+687513	1/1/2016 4:28:15 PM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level alarm restored		
+687514	1/1/2016 4:47:19 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Stopping		
+687515	1/1/2016 4:47:36 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Enabled		
+687516	1/1/2016 5:25:06 PM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level below low limit 491		
+687517	1/1/2016 5:26:36 PM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level alarm restored		
+687518	1/1/2016 7:32:04 PM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level below low limit 484		
+687519	1/1/2016 7:42:18 PM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level alarm restored		
+687520	1/1/2016 8:34:38 PM	Seamount	Protein Skimmer Process	Seamount PSK 5	Seamount PSK 5 Ozone Inject Disabled, ORP level is out of range.550		
+687521	1/1/2016 9:00:09 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 3/4	Seamount Filter 3/4 Stopping		
+687522	1/1/2016 9:00:13 PM	Seamount	Temperature Control Process	Seamount Heat Exchanger 2	Seamount Heat Exchanger 2 Stopping		
+687523	1/1/2016 9:01:39 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 3/4	Seamount Filter 3/4 Starting Backwash		
+687524	1/1/2016 9:01:49 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Stopping		
+687525	1/1/2016 9:01:51 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Stopping		
+687526	1/1/2016 9:01:53 PM	Seamount	Temperature Control Process	Seamount Heat Exchanger 2	Seamount Heat Exchanger 2 Chilling Enabled		
+687527	1/1/2016 9:02:22 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 3/4	Seamount Filter 3/4 run time since last backwash: 119:32		
+687528	1/1/2016 9:02:54 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Enabled		
+687529	1/1/2016 9:02:54 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Enabled		
+687530	1/1/2016 9:10:54 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Starting		
+687531	1/1/2016 9:11:44 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 3/4	Warning: Aborting Seamount Recirculation Filter Backwash, Dirty Basin Full.		
+687532	1/1/2016 9:12:45 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 3/4	Seamount Filter 3/4 Stopping		
+687533	1/1/2016 9:12:46 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Starting		
+687534	1/1/2016 9:12:52 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 3/4	Seamount Filter 3/4 Starting		
+687535	1/1/2016 9:12:53 PM	Seamount	Temperature Control Process	Seamount Heat Exchanger 2	Seamount Heat Exchanger 2 Chilling Starting		
+687536	1/1/2016 9:12:57 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Starting		
+687537	1/1/2016 9:14:14 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Operating		
+687538	1/1/2016 9:16:20 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.705		
+687539	1/1/2016 9:16:47 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Starting Recirculate		
+687540	1/1/2016 9:18:01 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Starting		
+687541	1/1/2016 9:18:40 PM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Starting		
+687542	1/1/2016 9:19:30 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Operating		
+687543	1/1/2016 9:20:07 PM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Operating		
+687544	1/1/2016 9:34:55 PM	Seamount	Protein Skimmer Process	Seamount PSK 1	Seamount PSK 1 Ozone Inject Disabled, ORP level is out of range.551		
+687545	1/1/2016 10:10:00 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Exhibit Return ORP level above high Limit.		
+687546	1/1/2016 10:10:10 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Exhibit Return ORP level above high Limit.		
+687547	1/1/2016 10:10:40 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.704		
+687548	1/1/2016 10:34:38 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Stopping		
+687549	1/2/2016 1:34:11 AM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level below low limit 343		
+687550	1/2/2016 3:07:04 AM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level alarm restored		
+687551	1/2/2016 4:44:10 AM	Seamount	Protein Skimmer Process	Seamount PSK 5	Seamount PSK 5 Ozone Inject Disabled, ORP level is out of range.551		
+687552	1/2/2016 4:47:14 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Stopping		
+687553	1/2/2016 4:48:00 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Enabled		
+687554	1/2/2016 5:41:41 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Stopping		
+687555	1/2/2016 5:41:54 AM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Stopping		
+687556	1/2/2016 5:43:32 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Enabled		
+687557	1/2/2016 5:43:36 AM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Enabled		
+687558	1/2/2016 5:45:40 AM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level below low limit 431		
+687559	1/2/2016 6:36:40 AM	Seamount	Protein Skimmer Process	Seamount PSK 1	Seamount PSK 1 Ozone Inject Disabled, ORP level is out of range.551		
+687560	1/2/2016 4:22:00 PM	Seamount	Protein Skimmer Process	Seamount PSK 5	Seamount PSK 5 Ozone Inject Disabled, ORP level is out of range.551		
+687561	1/2/2016 8:35:17 PM	Seamount	Protein Skimmer Process	Seamount PSK 5	Seamount PSK 5 Ozone Inject Disabled, ORP level is out of range.551		
+687562	1/2/2016 8:39:18 PM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level alarm restored		
+687563	1/2/2016 8:43:52 PM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level below low limit 417		
+687564	1/2/2016 8:54:33 PM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level alarm restored		
+687565	1/2/2016 9:00:16 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 1/2	Seamount Filter 1/2 Stopping		
+687566	1/2/2016 9:01:43 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 1/2	Seamount Filter 1/2 Starting Backwash		
+687567	1/2/2016 9:01:46 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Stopping		
+687568	1/2/2016 9:01:50 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Stopping		
+687569	1/2/2016 9:02:28 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 1/2	Seamount Filter 1/2 run time since last backwash: 119:42		
+687570	1/2/2016 9:02:49 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Enabled		
+687571	1/2/2016 9:02:54 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Enabled		
+687572	1/2/2016 9:10:04 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Starting		
+687573	1/2/2016 9:10:42 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 1/2	Warning: Aborting Seamount Recirculation Filter Backwash, Dirty Basin Full.		
+687574	1/2/2016 9:11:41 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 1/2	Seamount Filter 1/2 Stopping		
+687575	1/2/2016 9:11:42 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Starting		
+687576	1/2/2016 9:11:48 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 1/2	Seamount Filter 1/2 Starting		
+687577	1/2/2016 9:11:52 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Starting		
+687578	1/2/2016 9:13:06 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Operating		
+687579	1/2/2016 9:15:43 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Starting Recirculate		
+687580	1/2/2016 9:15:43 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.712		
+687581	1/2/2016 9:16:55 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Starting		
+687582	1/2/2016 9:17:37 PM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Starting		
+687583	1/2/2016 9:18:27 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Operating		
+687584	1/2/2016 9:19:10 PM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Operating		
+687585	1/2/2016 9:31:47 PM	Seamount	Protein Skimmer Process	Seamount PSK 5	Seamount PSK 5 Ozone Inject Disabled, ORP level is out of range.551		
+687586	1/2/2016 9:39:04 PM	Seamount	Protein Skimmer Process	Seamount PSK 1	Seamount PSK 1 Ozone Inject Disabled, ORP level is out of range.551		
+687587	1/2/2016 10:08:28 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.703		
+687588	1/2/2016 10:11:15 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Exhibit Return ORP level above high Limit.		
+687589	1/2/2016 10:11:19 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Exhibit Return ORP level above high Limit.		
+687590	1/2/2016 10:36:25 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Stopping		
+687591	1/3/2016 3:26:42 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.704		
+687592	1/3/2016 3:56:12 AM	Seamount	Protein Skimmer Process	Seamount PSK 5	Seamount PSK 5 Ozone Inject Disabled, ORP level is out of range.551		
+687593	1/3/2016 4:25:26 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687594	1/3/2016 4:50:09 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Stopping		
+687595	1/3/2016 4:50:54 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Enabled		
+687596	1/3/2016 5:33:33 AM	Seamount	Protein Skimmer Process	Seamount PSK 1	Seamount PSK 1 Ozone Inject Disabled, ORP level is out of range.551		
+687597	1/3/2016 5:43:34 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Stopping		
+687598	1/3/2016 5:43:50 AM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Stopping		
+687599	1/3/2016 5:45:33 AM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Enabled		
+687600	1/3/2016 5:45:36 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Enabled		
+687601	1/3/2016 9:37:49 AM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1, ORP Level out of safety range.		
+687602	1/3/2016 10:06:05 AM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level below low limit 483		
+687603	1/3/2016 10:18:09 AM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level alarm restored		
+687604	1/3/2016 10:57:55 AM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1, ORP Level out of safety range.		
+687605	1/3/2016 11:18:06 AM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level below low limit 483		
+687606	1/3/2016 11:49:00 AM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level alarm restored		
+687607	1/3/2016 12:18:48 PM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level below low limit 481		
+687608	1/3/2016 12:20:02 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1, ORP Level out of safety range.		
+687609	1/3/2016 12:40:05 PM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level alarm restored		
+687610	1/3/2016 12:54:22 PM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level below low limit 472		
+687611	1/3/2016 4:34:27 PM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level alarm restored		
+687612	1/3/2016 4:38:10 PM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level below low limit 306		
+687613	1/3/2016 4:44:51 PM	RCKACS004	Alarm	Seamount Recovery OZC Tower Discharge ORP Level	Warning: Seamount Recovery OZC Tower Discharge ORP Level alarm restored		
+687614	1/3/2016 5:06:21 PM	Seamount	Protein Skimmer Process	Seamount PSK 5	Seamount PSK 5 Ozone Inject Disabled, ORP level is out of range.551		
+687615	1/3/2016 9:00:13 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 7/8	Seamount Filter 7/8 Stopping		
+687616	1/3/2016 9:00:58 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 7/8	Seamount Filter 7/8 Starting Backwash		
+687617	1/3/2016 9:01:01 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Stopping		
+687618	1/3/2016 9:01:09 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Stopping		
+687619	1/3/2016 9:01:54 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 7/8	Seamount Filter 7/8 run time since last backwash: 119:44		
+687620	1/3/2016 9:02:04 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Enabled		
+687621	1/3/2016 9:02:14 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Enabled		
+687622	1/3/2016 9:11:28 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Starting		
+687623	1/3/2016 9:12:03 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 7/8	Warning: Aborting Seamount Recirculation Filter Backwash, Dirty Basin Full.		
+687624	1/3/2016 9:13:03 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 7/8	Seamount Filter 7/8 Stopping		
+687625	1/3/2016 9:13:04 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Starting		
+687626	1/3/2016 9:13:10 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 7/8	Seamount Filter 7/8 Starting		
+687627	1/3/2016 9:13:14 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Starting		
+687628	1/3/2016 9:14:24 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Operating		
+687629	1/3/2016 9:17:06 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Starting Recirculate		
+687630	1/3/2016 9:18:17 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Starting		
+687631	1/3/2016 9:18:50 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687632	1/3/2016 9:19:00 PM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Starting		
+687633	1/3/2016 9:19:56 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Operating		
+687634	1/3/2016 9:20:37 PM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Operating		
+687635	1/3/2016 9:24:44 PM	Seamount	Protein Skimmer Process	Seamount PSK 5	Seamount PSK 5 Ozone Inject Disabled, ORP level is out of range.551		
+687636	1/3/2016 9:29:56 PM	Seamount	Protein Skimmer Process	Seamount PSK 2	Seamount PSK 2 Ozone Inject Disabled, ORP level is out of range.551		
+687637	1/3/2016 9:40:13 PM	Seamount	Protein Skimmer Process	Seamount PSK 1	Seamount PSK 1 Ozone Inject Disabled, ORP level is out of range.551		
+687638	1/3/2016 10:08:03 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687639	1/3/2016 10:28:25 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Exhibit Return ORP level above high Limit.		
+687640	1/3/2016 10:28:38 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Exhibit Return ORP level above high Limit.		
+687641	1/3/2016 10:46:09 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Stopping		
+687642	1/4/2016 3:58:14 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.703		
+687643	1/4/2016 4:14:33 AM	Seamount	Protein Skimmer Process	Seamount PSK 5	Seamount PSK 5 Ozone Inject Disabled, ORP level is out of range.551		
+687644	1/4/2016 4:51:48 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687645	1/4/2016 4:59:28 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Stopping		
+687646	1/4/2016 5:00:17 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Enabled		
+687647	1/4/2016 5:27:24 AM	Seamount	Protein Skimmer Process	Seamount PSK 1	Seamount PSK 1 Ozone Inject Disabled, ORP level is out of range.551		
+687648	1/4/2016 5:54:48 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Stopping		
+687649	1/4/2016 5:55:01 AM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Stopping		
+687650	1/4/2016 5:56:50 AM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Enabled		
+687651	1/4/2016 5:57:13 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Enabled		
+687652	1/4/2016 7:54:12 AM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Priming Vacuum		
+687653	1/4/2016 7:56:00 AM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Vacuuming Seamount		
+687654	1/4/2016 7:56:02 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Starting Vacuum		
+687655	1/4/2016 7:58:17 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Vacuuming		
+687656	1/4/2016 8:39:30 AM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Stopping		
+687657	1/4/2016 8:39:33 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Stopping		
+687658	1/4/2016 8:41:07 AM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1, ORP Level out of safety range.		
+687659	1/4/2016 8:41:58 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Enabled		
+687660	1/4/2016 9:47:14 AM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1, ORP Level out of safety range.		
+687661	1/4/2016 10:47:32 AM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1, ORP Level out of safety range.		
+687662	1/4/2016 11:53:46 AM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1, ORP Level out of safety range.		
+687663	1/4/2016 4:21:26 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Exhibit Return ORP level above high Limit.		
+687664	1/4/2016 4:21:31 PM	Seamount	Protein Skimmer Process	Seamount PSK 5	Exhibit Return ORP level is above high limit		
+687665	1/4/2016 4:22:53 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Exhibit Return ORP level above high Limit.		
+687666	1/4/2016 4:23:26 PM	RCKACS004	Alarm	Seamount Exhibit Return ORP 1 Level	Warning: Seamount Exhibit Return ORP 1 Level below low limit 84		
+687667	1/4/2016 4:24:41 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Exhibit Return ORP level above high Limit.		
+687668	1/4/2016 4:28:04 PM	Seamount	Protein Skimmer Process	Seamount PSK 5	Seamount PSK 5 Ozone Inject Disabled, ORP level is out of range.551		
+687669	1/4/2016 4:32:53 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Exhibit Return ORP level above high Limit.		
+687670	1/4/2016 4:33:01 PM	Seamount	Protein Skimmer Process	Seamount PSK 1	Exhibit Return ORP level is above high limit		
+687671	1/4/2016 4:33:54 PM	RCKACS004	Alarm	Seamount Exhibit Return ORP 2 Level	Warning: Seamount Exhibit Return ORP 2 Level below low limit 260		
+687672	1/4/2016 4:42:19 PM	RCKACS004	Alarm	Seamount Exhibit Return ORP 1 Level	Warning: Seamount Exhibit Return ORP 1 Level alarm restored		
+687673	1/4/2016 4:51:00 PM	RCKACS004	Alarm	Seamount Exhibit Return ORP 2 Level	Warning: Seamount Exhibit Return ORP 2 Level alarm restored		
+687674	1/4/2016 5:52:45 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Stopping		
+687675	1/4/2016 5:53:03 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Starting Backwash		
+687676	1/4/2016 6:26:43 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter run time since last backwash: 25:23		
+687677	1/4/2016 7:10:27 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Stopping		
+687678	1/4/2016 7:10:44 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Enabled		
+687679	1/4/2016 8:16:43 PM	Seamount	Protein Skimmer Process	Seamount PSK 2	Seamount PSK 2 Ozone Inject Disabled, ORP level is out of range.551		
+687680	1/4/2016 9:00:17 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 5/6	Seamount Filter 5/6 Stopping		
+687681	1/4/2016 9:00:23 PM	Seamount	Temperature Control Process	Seamount Heat Exchanger 2	Seamount Heat Exchanger 2 Stopping		
+687682	1/4/2016 9:01:40 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 5/6	Seamount Filter 5/6 Starting Backwash		
+687683	1/4/2016 9:01:42 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Stopping		
+687684	1/4/2016 9:01:45 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Stopping		
+687685	1/4/2016 9:02:05 PM	Seamount	Temperature Control Process	Seamount Heat Exchanger 2	Seamount Heat Exchanger 2 Chilling Enabled		
+687686	1/4/2016 9:02:28 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 5/6	Seamount Filter 5/6 run time since last backwash: 119:44		
+687687	1/4/2016 9:02:44 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Enabled		
+687688	1/4/2016 9:02:48 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Enabled		
+687689	1/4/2016 9:04:00 PM	RCKACS004	Alarm	Seamount Exhibit Water Level	Warning: Seamount Exhibit Water Level above high limit 1.54		
+687690	1/4/2016 9:05:21 PM	RCKACS004	Alarm	Seamount Exhibit Water Level	Warning: Seamount Exhibit Water Level alarm restored		
+687691	1/4/2016 9:12:05 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Starting		
+687692	1/4/2016 9:12:46 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 5/6	Warning: Aborting Seamount Recirculation Filter Backwash, Dirty Basin Full.		
+687693	1/4/2016 9:13:44 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 5/6	Seamount Filter 5/6 Stopping		
+687694	1/4/2016 9:13:45 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Starting		
+687695	1/4/2016 9:13:48 PM	Seamount	Temperature Control Process	Seamount Heat Exchanger 2	Seamount Heat Exchanger 2 Chilling Starting		
+687696	1/4/2016 9:13:51 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 5/6	Seamount Filter 5/6 Starting		
+687697	1/4/2016 9:13:58 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Starting		
+687698	1/4/2016 9:15:11 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Operating		
+687699	1/4/2016 9:17:50 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Starting Recirculate		
+687700	1/4/2016 9:18:05 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.703		
+687701	1/4/2016 9:19:00 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Starting		
+687702	1/4/2016 9:19:54 PM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Starting		
+687703	1/4/2016 9:20:37 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Operating		
+687704	1/4/2016 9:21:35 PM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Operating		
+687705	1/4/2016 10:09:12 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687706	1/4/2016 10:32:24 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.701		
+687707	1/4/2016 10:36:46 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Stopping		
+687708	1/4/2016 10:54:26 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687709	1/4/2016 11:22:26 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687710	1/4/2016 11:59:35 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687711	1/5/2016 1:38:15 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.703		
+687712	1/5/2016 2:32:31 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.701		
+687713	1/5/2016 3:19:06 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687714	1/5/2016 4:03:21 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.703		
+687715	1/5/2016 4:38:25 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Stopping		
+687716	1/5/2016 4:39:19 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Enabled		
+687717	1/5/2016 5:33:12 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Stopping		
+687718	1/5/2016 5:33:19 AM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Stopping		
+687719	1/5/2016 5:35:05 AM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Enabled		
+687720	1/5/2016 5:35:13 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Enabled		
+687721	1/5/2016 1:47:14 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 7/8	Seamount Filter 7/8 Pump Failure		
+687722	1/5/2016 1:47:15 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 7/8	Seamount Filter 7/8 Stopping		
+687723	1/5/2016 1:47:53 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 7/8	Seamount Filter 7/8 Failed		
+687724	1/5/2016 1:50:02 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 7/8	Seamount Filter 7/8 Starting		
+687725	1/5/2016 9:00:09 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 9/10	Seamount Filter 9/10 Stopping		
+687726	1/5/2016 9:01:31 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 9/10	Seamount Filter 9/10 Starting Backwash		
+687727	1/5/2016 9:01:34 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Stopping		
+687728	1/5/2016 9:01:38 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Stopping		
+687729	1/5/2016 9:02:16 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 9/10	Seamount Filter 9/10 run time since last backwash: 119:46		
+687730	1/5/2016 9:02:34 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Enabled		
+687731	1/5/2016 9:02:38 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Enabled		
+687732	1/5/2016 9:09:52 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Starting		
+687733	1/5/2016 9:10:32 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 9/10	Warning: Aborting Seamount Recirculation Filter Backwash, Dirty Basin Full.		
+687734	1/5/2016 9:11:24 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 9/10	Seamount Filter 9/10 Stopping		
+687735	1/5/2016 9:11:25 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Starting		
+687736	1/5/2016 9:11:31 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 9/10	Seamount Filter 9/10 Starting		
+687737	1/5/2016 9:11:39 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Starting		
+687738	1/5/2016 9:12:54 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Operating		
+687739	1/5/2016 9:15:30 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Starting Recirculate		
+687740	1/5/2016 9:16:39 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.705		
+687741	1/5/2016 9:16:40 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Starting		
+687742	1/5/2016 9:17:12 PM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Starting		
+687743	1/5/2016 9:18:16 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Operating		
+687744	1/5/2016 9:18:46 PM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Operating		
+687745	1/5/2016 9:40:44 PM	Seamount	Protein Skimmer Process	Seamount PSK 4	Seamount PSK 4 Ozone Inject Disabled, ORP level is out of range.551		
+687746	1/5/2016 10:39:08 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Stopping		
+687747	1/5/2016 11:43:31 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687748	1/6/2016 12:02:12 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687749	1/6/2016 12:23:03 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.703		
+687750	1/6/2016 12:42:52 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687751	1/6/2016 1:03:53 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.701		
+687752	1/6/2016 1:23:34 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687753	1/6/2016 1:41:50 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.703		
+687754	1/6/2016 2:03:47 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687755	1/6/2016 2:24:14 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.701		
+687756	1/6/2016 2:43:05 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.701		
+687757	1/6/2016 3:02:11 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.701		
+687758	1/6/2016 3:22:34 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687759	1/6/2016 3:42:48 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.701		
+687760	1/6/2016 4:04:18 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.701		
+687761	1/6/2016 4:15:30 AM	Seamount	Protein Skimmer Process	Seamount PSK 4	Seamount PSK 4 Ozone Inject Disabled, ORP level is out of range.551		
+687762	1/6/2016 4:25:47 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687763	1/6/2016 4:46:42 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687764	1/6/2016 5:00:01 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Stopping		
+687765	1/6/2016 5:00:49 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Enabled		
+687766	1/6/2016 5:55:07 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Stopping		
+687767	1/6/2016 5:55:14 AM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Stopping		
+687768	1/6/2016 5:56:56 AM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Enabled		
+687769	1/6/2016 5:57:02 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Enabled		
+687770	1/6/2016 7:58:58 AM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Priming Vacuum		
+687771	1/6/2016 8:00:38 AM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Vacuuming Seamount		
+687772	1/6/2016 8:00:40 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Starting Vacuum		
+687773	1/6/2016 8:02:56 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Vacuuming		
+687774	1/6/2016 8:19:28 AM	Seamount	Protein Skimmer Process	Seamount PSK 3	Seamount PSK 3 Ozone Inject Disabled, ORP level is out of range.551		
+687775	1/6/2016 8:54:45 AM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Stopping		
+687776	1/6/2016 8:54:47 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Stopping		
+687777	1/6/2016 8:57:14 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Enabled		
+687778	1/6/2016 5:13:38 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1, ORP Level out of safety range.		
+687779	1/6/2016 5:14:15 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC 2 Tower, ORP Level out of safety range.		
+687780	1/6/2016 5:14:53 PM	Seamount	Protein Skimmer Process	Seamount PSK 2	Seamount PSK 2 Ozone Inject Disabled, ORP level is out of range.-648		
+687781	1/6/2016 5:15:42 PM	Seamount	Protein Skimmer Process	Seamount PSK 1	Seamount PSK 1 Ozone Inject Disabled, ORP level is out of range.-1074		
+687782	1/6/2016 5:16:38 PM	Seamount	Protein Skimmer Process	Seamount PSK 5	Seamount PSK 5 Ozone Inject Disabled, ORP level is out of range.-1080		
+687783	1/6/2016 5:18:33 PM	Seamount	Protein Skimmer Process	Seamount PSK 3	Seamount PSK 3 Ozone Inject Disabled, ORP level is out of range.-1076		
+687784	1/6/2016 5:49:14 PM	Seamount	Protein Skimmer Process	Seamount PSK 4	Exhibit Return ORP level is above high limit		
+687785	1/6/2016 5:49:15 PM	Seamount	Protein Skimmer Process	Seamount PSK 5	Exhibit Return ORP level is above high limit		
+687786	1/6/2016 5:49:16 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Exhibit Return ORP level above high Limit.		
+687787	1/6/2016 5:49:17 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Exhibit Return ORP level above high Limit.		
+687788	1/6/2016 5:49:18 PM	Seamount	Protein Skimmer Process	Seamount PSK 3	Exhibit Return ORP level is above high limit		
+687789	1/6/2016 8:45:00 PM	Seamount	Protein Skimmer Process	Seamount PSK 4	Seamount PSK 4 Ozone Inject Disabled, ORP level is out of range.551		
+687790	1/6/2016 9:00:11 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 3/4	Seamount Filter 3/4 Stopping		
+687791	1/6/2016 9:00:20 PM	Seamount	Temperature Control Process	Seamount Heat Exchanger 2	Seamount Heat Exchanger 2 Stopping		
+687792	1/6/2016 9:01:39 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 3/4	Seamount Filter 3/4 Starting Backwash		
+687793	1/6/2016 9:01:58 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Stopping		
+687794	1/6/2016 9:02:01 PM	Seamount	Temperature Control Process	Seamount Heat Exchanger 2	Seamount Heat Exchanger 2 Chilling Enabled		
+687795	1/6/2016 9:02:01 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Stopping		
+687796	1/6/2016 9:02:31 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 3/4	Seamount Filter 3/4 run time since last backwash: 119:45		
+687797	1/6/2016 9:03:06 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Enabled		
+687798	1/6/2016 9:03:06 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Enabled		
+687799	1/6/2016 9:11:11 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Starting		
+687800	1/6/2016 9:11:55 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 3/4	Warning: Aborting Seamount Recirculation Filter Backwash, Dirty Basin Full.		
+687801	1/6/2016 9:12:54 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 3/4	Seamount Filter 3/4 Stopping		
+687802	1/6/2016 9:12:55 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Starting		
+687803	1/6/2016 9:13:01 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 3/4	Seamount Filter 3/4 Starting		
+687804	1/6/2016 9:13:02 PM	Seamount	Temperature Control Process	Seamount Heat Exchanger 2	Seamount Heat Exchanger 2 Chilling Starting		
+687805	1/6/2016 9:13:09 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Starting		
+687806	1/6/2016 9:14:25 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Operating		
+687807	1/6/2016 9:16:57 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Starting Recirculate		
+687808	1/6/2016 9:18:12 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Starting		
+687809	1/6/2016 9:18:49 PM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Starting		
+687810	1/6/2016 9:19:46 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Operating		
+687811	1/6/2016 9:20:27 PM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Operating		
+687812	1/6/2016 9:21:43 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.701		
+687813	1/6/2016 9:33:01 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Exhibit Return ORP level above high Limit.		
+687814	1/6/2016 9:33:03 PM	Seamount	Protein Skimmer Process	Seamount PSK 1	Exhibit Return ORP level is above high limit		
+687815	1/6/2016 9:33:03 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Exhibit Return ORP level above high Limit.		
+687816	1/6/2016 9:33:04 PM	Seamount	Protein Skimmer Process	Seamount PSK 3	Exhibit Return ORP level is above high limit		
+687817	1/6/2016 9:33:15 PM	Seamount	Protein Skimmer Process	Seamount PSK 2	Exhibit Return ORP level is above high limit		
+687818	1/6/2016 9:33:18 PM	Seamount	Protein Skimmer Process	Seamount PSK 5	Exhibit Return ORP level is above high limit		
+687819	1/6/2016 9:41:51 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687820	1/6/2016 10:03:15 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.703		
+687821	1/6/2016 10:27:45 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687822	1/6/2016 10:39:16 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Stopping		
+687823	1/6/2016 10:57:56 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.701		
+687824	1/6/2016 11:33:55 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.706		
+687825	1/7/2016 12:27:51 AM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Exhibit Return ORP level above high Limit.		
+687826	1/7/2016 12:27:51 AM	Seamount	Protein Skimmer Process	Seamount PSK 3	Exhibit Return ORP level is above high limit		
+687827	1/7/2016 12:47:18 AM	Seamount	Protein Skimmer Process	Seamount PSK 3	Seamount PSK 3 Ozone Inject Disabled, ORP level is out of range.551		
+687828	1/7/2016 1:02:39 AM	Seamount	Protein Skimmer Process	Seamount PSK 2	Seamount PSK 2 Ozone Inject Disabled, ORP level is out of range.551		
+687829	1/7/2016 2:10:29 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.701		
+687830	1/7/2016 3:01:01 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.704		
+687831	1/7/2016 3:45:37 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687832	1/7/2016 4:27:12 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.701		
+687833	1/7/2016 5:03:09 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Stopping		
+687834	1/7/2016 5:03:53 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Enabled		
+687835	1/7/2016 5:22:35 AM	Seamount	Protein Skimmer Process	Seamount PSK 5	Seamount PSK 5 Ozone Inject Disabled, ORP level is out of range.551		
+687836	1/7/2016 5:34:30 AM	Seamount	Protein Skimmer Process	Seamount PSK 1	Exhibit Return ORP level is above high limit		
+687837	1/7/2016 5:34:30 AM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Exhibit Return ORP level above high Limit.		
+687838	1/7/2016 5:34:42 AM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Exhibit Return ORP level above high Limit.		
+687839	1/7/2016 5:59:46 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Stopping		
+687840	1/7/2016 6:00:04 AM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Stopping		
+687841	1/7/2016 6:01:39 AM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Enabled		
+687842	1/7/2016 6:02:04 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Enabled		
+687843	1/7/2016 7:06:37 AM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Pump Failure		
+687844	1/7/2016 7:06:39 AM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Operating		
+687845	1/7/2016 9:30:18 AM	Seamount	Protein Skimmer Process	Seamount PSK 5	Seamount PSK 5 Ozone Inject Disabled, ORP level is out of range.549		
+687846	1/7/2016 10:07:41 AM	Seamount	Protein Skimmer Process	Seamount PSK 1	Seamount PSK 1 Ozone Inject Disabled, ORP level is out of range.551		
+687847	1/7/2016 10:28:09 AM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Exhibit Return ORP level above high Limit.		
+687848	1/7/2016 10:28:19 AM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Exhibit Return ORP level above high Limit.		
+687849	1/7/2016 1:39:36 PM	Seamount	Protein Skimmer Process	Seamount PSK 2	Seamount PSK 2 Ozone Inject Disabled, ORP level is out of range.551		
+687850	1/7/2016 2:00:54 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Stopping		
+687851	1/7/2016 2:01:11 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Starting Backwash		
+687852	1/7/2016 2:34:58 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter run time since last backwash: 25:30		
+687853	1/7/2016 2:56:46 PM	Seamount	Protein Skimmer Process	Seamount PSK 5	Seamount PSK 5 Ozone Inject Disabled, ORP level is out of range.550		
+687854	1/7/2016 3:18:43 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Stopping		
+687855	1/7/2016 3:19:00 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Enabled		
+687856	1/7/2016 4:02:44 PM	Seamount	Protein Skimmer Process	Seamount PSK 1	Seamount PSK 1 Ozone Inject Disabled, ORP level is out of range.551		
+687857	1/7/2016 4:12:42 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Exhibit Return ORP level above high Limit.		
+687858	1/7/2016 4:12:56 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Exhibit Return ORP level above high Limit.		
+687859	1/7/2016 7:47:39 PM	Seamount	Protein Skimmer Process	Seamount PSK 2	Seamount PSK 2 Ozone Inject Disabled, ORP level is out of range.551		
+687860	1/7/2016 7:50:26 PM	Seamount	Protein Skimmer Process	Seamount PSK 3	Seamount PSK 3 Ozone Inject Disabled, ORP level is out of range.551		
+687861	1/7/2016 9:00:10 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 1/2	Seamount Filter 1/2 Stopping		
+687862	1/7/2016 9:01:35 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 1/2	Seamount Filter 1/2 Starting Backwash		
+687863	1/7/2016 9:01:40 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Stopping		
+687864	1/7/2016 9:01:47 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Stopping		
+687865	1/7/2016 9:02:23 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 1/2	Seamount Filter 1/2 run time since last backwash: 119:45		
+687866	1/7/2016 9:02:43 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Enabled		
+687867	1/7/2016 9:02:44 PM	Seamount	Protein Skimmer Process	Seamount PSK 2	Seamount PSK 2 Ozone Inject Disabled, ORP level is out of range.579		
+687868	1/7/2016 9:02:48 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Enabled		
+687869	1/7/2016 9:11:25 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Starting		
+687870	1/7/2016 9:12:05 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 1/2	Warning: Aborting Seamount Recirculation Filter Backwash, Dirty Basin Full.		
+687871	1/7/2016 9:13:04 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 1/2	Seamount Filter 1/2 Stopping		
+687872	1/7/2016 9:13:05 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Starting		
+687873	1/7/2016 9:13:11 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 1/2	Seamount Filter 1/2 Starting		
+687874	1/7/2016 9:13:15 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Starting		
+687875	1/7/2016 9:14:22 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Operating		
+687876	1/7/2016 9:14:42 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687877	1/7/2016 9:17:07 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Starting Recirculate		
+687878	1/7/2016 9:18:19 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Starting		
+687879	1/7/2016 9:19:04 PM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Starting		
+687880	1/7/2016 9:20:01 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Operating		
+687881	1/7/2016 9:20:37 PM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Operating		
+687882	1/7/2016 9:53:36 PM	Seamount	Protein Skimmer Process	Seamount PSK 3	Seamount PSK 3 Ozone Inject Disabled, ORP level is out of range.551		
+687883	1/7/2016 10:05:58 PM	Seamount	Protein Skimmer Process	Seamount PSK 2	Seamount PSK 2 Ozone Inject Disabled, ORP level is out of range.551		
+687884	1/7/2016 10:07:21 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.701		
+687885	1/7/2016 10:28:57 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687886	1/7/2016 10:46:38 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Stopping		
+687887	1/7/2016 10:49:33 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.701		
+687888	1/7/2016 11:11:45 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.704		
+687889	1/7/2016 11:38:44 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687890	1/8/2016 12:07:49 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687891	1/8/2016 12:48:49 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.704		
+687892	1/8/2016 1:26:30 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.703		
+687893	1/8/2016 1:59:20 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.703		
+687894	1/8/2016 2:31:25 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.701		
+687895	1/8/2016 3:01:04 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.703		
+687896	1/8/2016 3:34:31 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.704		
+687897	1/8/2016 3:52:19 AM	Seamount	Protein Skimmer Process	Seamount PSK 2	Seamount PSK 2 Ozone Inject Disabled, ORP level is out of range.551		
+687898	1/8/2016 4:06:30 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.705		
+687899	1/8/2016 4:37:52 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687900	1/8/2016 4:42:43 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Stopping		
+687901	1/8/2016 4:43:31 AM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Enabled		
+687902	1/8/2016 5:37:52 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Stopping		
+687903	1/8/2016 5:38:01 AM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Stopping		
+687904	1/8/2016 5:39:39 AM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Enabled		
+687905	1/8/2016 5:39:47 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Enabled		
+687906	1/8/2016 7:33:35 AM	Seamount	Protein Skimmer Process	Seamount PSK 2	Seamount PSK 2 Ozone Inject Disabled, ORP level is out of range.551		
+687907	1/8/2016 8:03:21 AM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Priming Vacuum		
+687908	1/8/2016 8:05:00 AM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Vacuuming Seamount		
+687909	1/8/2016 8:05:03 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Starting Vacuum		
+687910	1/8/2016 8:07:15 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Vacuuming		
+687911	1/8/2016 8:29:36 AM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Exhibit Return ORP level above high Limit.		
+687912	1/8/2016 8:29:37 AM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Exhibit Return ORP level above high Limit.		
+687913	1/8/2016 8:29:38 AM	Seamount	Protein Skimmer Process	Seamount PSK 5	Exhibit Return ORP level is above high limit		
+687914	1/8/2016 8:29:41 AM	Seamount	Protein Skimmer Process	Seamount PSK 1	Exhibit Return ORP level is above high limit		
+687915	1/8/2016 9:02:00 AM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Stopping		
+687916	1/8/2016 9:02:06 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Stopping		
+687917	1/8/2016 9:04:31 AM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Enabled		
+687918	1/8/2016 12:25:13 PM	Seamount	Protein Skimmer Process	Seamount PSK 2	Seamount PSK 2 Ozone Inject Disabled, ORP level is out of range.551		
+687919	1/8/2016 9:00:18 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 7/8	Seamount Filter 7/8 Stopping		
+687920	1/8/2016 9:01:00 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 7/8	Seamount Filter 7/8 Starting Backwash		
+687921	1/8/2016 9:01:17 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Stopping		
+687922	1/8/2016 9:01:22 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Stopping		
+687923	1/8/2016 9:01:48 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 7/8	Seamount Filter 7/8 run time since last backwash: 119:40		
+687924	1/8/2016 9:02:17 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Enabled		
+687925	1/8/2016 9:02:17 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Enabled		
+687926	1/8/2016 9:03:43 PM	RCKACS004	Alarm	Seamount Exhibit Water Level	Warning: Seamount Exhibit Water Level above high limit 1.54		
+687927	1/8/2016 9:04:59 PM	RCKACS004	Alarm	Seamount Exhibit Water Level	Warning: Seamount Exhibit Water Level alarm restored		
+687928	1/8/2016 9:05:49 PM	Seamount	Protein Skimmer Process	Seamount PSK 5	Seamount PSK 5 Ozone Inject Disabled, ORP level is out of range.551		
+687929	1/8/2016 9:11:44 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Starting		
+687930	1/8/2016 9:12:30 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 7/8	Warning: Aborting Seamount Recirculation Filter Backwash, Dirty Basin Full.		
+687931	1/8/2016 9:13:19 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 7/8	Seamount Filter 7/8 Stopping		
+687932	1/8/2016 9:13:20 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Starting		
+687933	1/8/2016 9:13:26 PM	Seamount Recirculation	Recirculation Filters Process	Seamount Filter 7/8	Seamount Filter 7/8 Starting		
+687934	1/8/2016 9:13:30 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Starting		
+687935	1/8/2016 9:14:43 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Seamount OZC Tower 1 Operating		
+687936	1/8/2016 9:17:28 PM	Seamount Recovery	Recovery Filter Process	Seamount Recovery Filter	Seamount Recovery Filter Starting Recirculate		
+687937	1/8/2016 9:17:59 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.708		
+687938	1/8/2016 9:18:34 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Starting		
+687939	1/8/2016 9:19:22 PM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Starting		
+687940	1/8/2016 9:20:13 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Seamount OZC Tower 2 Operating		
+687941	1/8/2016 9:20:53 PM	Seamount	Ozone Contact Tower Process	Seamount Recovery OZC Tower	Seamount Recovery OZC Tower Operating		
+687942	1/8/2016 9:25:34 PM	Seamount	Protein Skimmer Process	Seamount PSK 1	Exhibit Return ORP level is above high limit		
+687943	1/8/2016 9:25:40 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 2	Exhibit Return ORP level above high Limit.		
+687944	1/8/2016 9:25:49 PM	Seamount	Ozone Contact Tower Process	Seamount OZC Tower 1	Exhibit Return ORP level above high Limit.		
+687945	1/8/2016 10:10:05 PM	Seamount	Protein Skimmer Process	Seamount Recovery PSK	Seamount Recovery PSK Ozone Inject Disabled, ORP level is out of range.702		
+687946	1/8/2016 10:33:41 PM	Seamount	Makeup Process	Seamount Makeup System	Seamount Makeup System Stopping		
